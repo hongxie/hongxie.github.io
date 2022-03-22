@@ -102,7 +102,11 @@ IEEE International Conference on Data Engineering (<strong>ICDE</strong>), short
 
 
 <li>Tingwei Liu, <strong>Hong Xie*</strong>, and John C.S. Lui. </li>
-<i>Optimizing Mixture Importance Sampling Via Online Learning: Algorithms and Applications.</i>
+<i>
+<a href="https://www.usenix.org/conference/atc20/presentation/wang-rui">
+``Optimizing Mixture Importance Sampling Via Online Learning: Algorithms and Applications. &#39;&#39;&nbsp; 
+</a> 
+</i>
 <br> 
 International Conference on Computer Communication (<strong>INFOCOM</strong>), 2020. 
 <br>
@@ -111,27 +115,38 @@ International Conference on Computer Communication (<strong>INFOCOM</strong>), 2
 
 
 <li>Rui Wang, Yongkun Li, <strong>Hong Xie</strong>, John C.S. Lui and Yinlong Xu. </li>
-<i>GraphWalker: An I/O-Efficient and Resource-Friendly Graph Analytic System for Fast and Scalable Random Walks.  
+<i>
+<a href="https://www.usenix.org/conference/atc20/presentation/wang-rui">
+``GraphWalker: An I/O-Efficient and Resource-Friendly Graph Analytic System for Fast and Scalable Random Walks. &#39;&#39;&nbsp; 
+</a> 
 </i>
 <br> 
 USENIX Annual Technical Conference (<strong>ATC</strong>), 2020. 
 <p>  </p>
 
 <li>Xiaoying Zhang, <strong>Hong Xie</strong>, Hang Li and John C.S. Lui. </li>
-<i>Conversational Contextual Bandits: Algorithm and Application.  
+<i>
+<a href="https://dl.acm.org/doi/abs/10.1145/3366423.3380148">
+``Conversational Contextual Bandits: Algorithm and Application.&#39;&#39;&nbsp; 
+</a> 
 </i>
 <br> 
 The Web Conference  (<strong>WWW</strong>), 2020. 
 <p>  </p>
 
 <li><strong>Hong Xie</strong>, and Mingze Zhong </li>
-<i>Robust Product Rating Rules Against Herding Effects: Theory and Applications.</i>
+<i>
+<a href="https://ieeexplore.ieee.org/abstract/document/9338288">
+``Robust Product Rating Rules Against Herding Effects: Theory and Applications.&#39;&#39;&nbsp; 
+</a> 
+</i>
 <br> 
 IEEE International Conference on Data Mining (<strong>ICDM</strong>), short paper, 2020.
 <p>  </p>
 
 <li>Ye Li, <strong>Hong Xie</strong>, Yishi Lin, John C.S. Lui. </li>
-<i><a href="https://ieeexplore.ieee.org/abstract/document/8970963">
+<i>
+<a href="https://ieeexplore.ieee.org/abstract/document/8970963">
 ``To Be or Not To Be: Analyzing & Modeling Social Recommendation in Online Social Networks.&#39;&#39;&nbsp; 
 </a> 
 </i>
@@ -349,7 +364,7 @@ pp. 19:1--19:12, 2014.
 <i> 
 ``A Multiplier Bootstrap Approach to Designing Robust Algorithms for Contextual Bandits.&#39;&#39; 
 </i><br> 
-accepted to IEEE Transactions on Network Science and Engineering  (<strong>TNSE</strong>), 2022. .
+accepted to IEEE Transactions on Neural Networks and Learning Systems (<strong>TNNLS</strong>), 2022. .
 <p> </p>
 
 <li>Shiyuan Zheng, <strong>Hong Xie*</strong>, and John C.S. Lui&nbsp; </li>
@@ -415,30 +430,38 @@ accepted to IEEE Transactions on Mobile Computing (<strong>TMC</strong>), 2021.
 accepted to IEEE Transactions on Mobile Computing (<strong>TMC</strong>), 2021.
 <p> </p>
 
-<li>Rui Wang, Yongkun Li, Shuai Lin, <strong>Hong Xie</strong>, Yinlong Xu, John C.S. Lui&nbsp; </li>
-<i> 
-``On Modeling Influence Maximization in Social Activity Networks under General Settings.&#39;&#39; 
-</i><br> 
-accepted to ACM Transactions on Knowledge Discovery from Data (<strong>TKDD</strong>), 2020. 
-<p> </p>
-
-<li><strong>Hong Xie</strong>, Mingze Zhong, Yongkun Li and John C.S. Lui&nbsp; </li>
-<i> 
-``Understanding Persuasion Cascades in Online Product Rating Systems: Modeling, Analysis and Inference.&#39;&#39; 
-</i><br> 
-accepted to ACM Transactions on Knowledge Discovery from Data (<strong>TKDD</strong>), 2020. 
-<p> </p>
-
 <li>Ye Li, <strong>Hong Xie*</strong>, Yishi Lin and John C.S. Lui </li>
-<i> 
+<i>  
+<a href="https://ieeexplore.ieee.org/abstract/document/9263376">
 ``Rewarding Social Recommendation in OSNs: Empirical Evidences, Modeling and Optimizations.&#39;&#39; 
+</a>
 </i><br> 
 accepted to IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>), 2020.  
 <p> </p>
 
+<li>Rui Wang, Yongkun Li, Shuai Lin, <strong>Hong Xie</strong>, Yinlong Xu, John C.S. Lui&nbsp; </li>
+<i> 
+<a href="https://dl.acm.org/doi/abs/10.1145/3451218">
+``On Modeling Influence Maximization in Social Activity Networks under General Settings.&#39;&#39; 
+</a>
+</i><br> 
+ACM Transactions on Knowledge Discovery from Data (<strong>TKDD</strong>), vol 15(6), pp. 108:1-108:28,2021. 
+<p> </p>
+
+<li><strong>Hong Xie</strong>, Mingze Zhong, Yongkun Li and John C.S. Lui&nbsp; </li>
+<i> 
+<a href="https://dl.acm.org/doi/abs/10.1145/3440887">
+``Understanding Persuasion Cascades in Online Product Rating Systems: Modeling, Analysis and Inference.&#39;&#39; 
+</a>
+</i><br> 
+ACM Transactions on Knowledge Discovery from Data (<strong>TKDD</strong>), vol. 15(3), pp. 36:1-36:29, 2021. 
+<p> </p>
+
 <li><strong>Hong Xie</strong>, Yongkun Li and John C.S. Lui&nbsp; </li>
 <i> 
+<a href="https://dl.acm.org/doi/abs/10.1145/3400024">
 ``A Reinforcement Learning Approach to Optimize Discount & Reputation Trade-offs in E-commerce Systems.&#39;&#39; 
+</a>
 </i><br> 
 ACM Transactions on Internet Technology (<strong>TOIT</strong>), Vol. 20 (4), 2020.  
 <p> </p>
@@ -446,7 +469,9 @@ ACM Transactions on Internet Technology (<strong>TOIT</strong>), Vol. 20 (4), 20
 
 <li>Ye Li, <strong>Hong Xie*</strong>, John C.S. Lui, Ken Calvert.&nbsp; </li>
 <i> 
+<a href="https://ieeexplore.ieee.org/abstract/document/9146594">
 ``Quantifying Deployability & Evolvability of Future Internet Architectures via Economic Models.&#39;&#39; 
+</a>
 </i><br> 
 IEEE/ACM Transactions on Networking (<strong>ToN</strong>), vol. 28(5), pp. 1995 - 2008, 2020.  
 <p> </p>
