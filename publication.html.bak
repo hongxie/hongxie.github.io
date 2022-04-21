@@ -37,13 +37,6 @@
 <p class="style6"><strong>Conferences (*corresponding author):</strong></p>
 <ol reversed>
 
-<li>Xuchuang Wang, <strong>Hong Xie*</strong>, John C.S. Lui. </li>
-<i>Multi-Player Multi-Armed Bandits with Finite Shareable Resources Arms: Learning Algorithms & Applications.  
-</i>
-<br> 
-31st International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 2022. 
-<p>  </p>
-
 <li>Junpu Chen, <strong>Hong Xie*</strong>. </li>
 <i>An Online Learning Approach to Sequential User-centric Selection Problems.  
 </i>
@@ -110,7 +103,7 @@ IEEE International Conference on Data Engineering (<strong>ICDE</strong>), short
 
 <li>Tingwei Liu, <strong>Hong Xie*</strong>, and John C.S. Lui. </li>
 <i>
-<a href="https://ieeexplore.ieee.org/abstract/document/9155466">
+<a href="https://www.usenix.org/conference/atc20/presentation/wang-rui">
 ``Optimizing Mixture Importance Sampling Via Online Learning: Algorithms and Applications. &#39;&#39;&nbsp; 
 </a> 
 </i>
