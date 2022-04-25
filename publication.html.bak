@@ -103,7 +103,7 @@ IEEE International Conference on Data Engineering (<strong>ICDE</strong>), short
 
 <li>Tingwei Liu, <strong>Hong Xie*</strong>, and John C.S. Lui. </li>
 <i>
-<a href="https://www.usenix.org/conference/atc20/presentation/wang-rui">
+<a href="https://ieeexplore.ieee.org/abstract/document/9155466">
 ``Optimizing Mixture Importance Sampling Via Online Learning: Algorithms and Applications. &#39;&#39;&nbsp; 
 </a> 
 </i>
@@ -359,6 +359,13 @@ pp. 19:1--19:12, 2014.
 
 <p class="style6"> <strong>Journals:</strong></p>
 <ol reversed>
+
+<li>Rui Wang, Yongkun Li, Yinlong Xu, <strong>Hong Xie</strong>, John C.S. Lui, Shuibing He&nbsp; </li>
+<i> 
+``Towards Fast and Scalable Random Walks over Disk-Resident Graphs via Efficient I/O Management.&#39;&#39; 
+</i><br> 
+accepted to ACM Transactions on Storage (<strong>TNNLS</strong>), 2022. .
+<p> </p>
 
 <li><strong>Hong Xie</strong>, Qiao Tang and Qingsheng Zhu&nbsp; </li>
 <i> 
