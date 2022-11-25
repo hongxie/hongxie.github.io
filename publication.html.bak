@@ -53,70 +53,100 @@ The 39th International Conference on Machine Learning (<strong>ICML</strong>), 2
 <p>  </p>
 
 <li>Xuchuang Wang, <strong>Hong Xie*</strong>, John C.S. Lui. </li>
-<i>Multi-Player Multi-Armed Bandits with Finite Shareable Resources Arms: Learning Algorithms & Applications.  
+<i>
+<a href="https://www.ijcai.org/proceedings/2022/0491.pdf">
+Multi-Player Multi-Armed Bandits with Finite Shareable Resources Arms: Learning Algorithms & Applications.    
+</a>
 </i>
 <br> 
 31st International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 2022. 
 <p>  </p>
 
 <li>Junpu Chen, <strong>Hong Xie*</strong>. </li>
-<i>An Online Learning Approach to Sequential User-centric Selection Problems.  
+<i>
+<a href="https://ojs.aaai.org/index.php/AAAI/article/view/20572">
+An Online Learning Approach to Sequential User-centric Selection Problems.   
+</a> 
 </i>
 <br> 
 Thirty-Fifth AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2022. 
 <p>  </p>
 
 <li>Qiao Tang, <strong>Hong Xie*</strong>. </li>
-<i>A Robust Algorithm to Unifying Offline Causal Inference and Online Multi-armed Bandit Learning.  
+<i>
+<a href="https://ieeexplore.ieee.org/abstract/document/9679084/">
+A Robust Algorithm to Unifying Offline Causal Inference and Online Multi-armed Bandit Learning.      
+</a> 
 </i>
 <br> 
 IEEE International Conference on Data Mining (<strong>ICDM</strong>), 2021. 
 <p>  </p>
 
 <li>Mingze Zhong, <strong>Hong Xie*</strong>, Qingsheng Zhu. </li>
-<i>Quantifying Assimilate-Contrast Effects in Online Rating Systems: Modeling, Analysis and Application.  
+<i>
+<a href="https://dl.acm.org/doi/abs/10.1145/3447548.3467244">
+Quantifying Assimilate-Contrast Effects in Online Rating Systems: Modeling, Analysis and Application.      
+</a> 
 </i>
 <br> 
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD</strong>), 2021. 
 <p>  </p>
 
 <li>Qiao Tang, <strong>Hong Xie*</strong>, Yunni Xia, Jia Lee, Qingsheng Zhu. </li>
-<i>Robust Contextual Bandits via Bootstrapping .  
+<i>
+<a href="https://ojs.aaai.org/index.php/AAAI/article/view/17446">
+Robust Contextual Bandits via Bootstrapping.     
+</a> 
 </i>
 <br> 
 Thirty-Fifth AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2021. 
 <p>  </p>
 
 <li>Ye Li, <strong>Hong Xie*</strong>, Yishi Lin, and John C.S. Lui. </li>
-<i>Unifying Offline Causal Inference and Online Bandit Learning for Data Driven Decision.  
+<i>
+<a href="https://dl.acm.org/doi/abs/10.1145/3442381.3449982">
+Unifying Offline Causal Inference and Online Bandit Learning for Data Driven Decision.   
+</a> 
 </i>
 <br> 
 The Web Conference (<strong>WWW</strong>), 2021. 
 <p>  </p>
 
 <li>Pei Yi, <strong>Hong Xie*</strong>, Yongkun Li, and John C.S. Lui. </li>
-<i>A Bootstrapping Approach to Optimize Random Walk Based Statistical Estimation over Graphs.  
+<i> 
+<a href="https://ieeexplore.ieee.org/abstract/document/9458774/">
+A Bootstrapping Approach to Optimize Random Walk Based Statistical Estimation over Graphs. 
+</a>  
 </i>
 <br> 
 IEEE International Conference on Data Engineering (<strong>ICDE</strong>), 2021. 
 <p>  </p>	
 
 <li>Shiyuan Zheng, <strong>Hong Xie*</strong> and John C.S. Lui. </li>
-<i>Pricing Social Visibility Service in Online Social Networks: Modeling and Algorithms.  
+<i>
+<a href="https://dl.acm.org/doi/abs/10.1145/3487351.3488347">
+Pricing Social Visibility Service in Online Social Networks: Modeling and Algorithms.  
+</a> 
 </i>
 <br> 
 The International Conference on Advances in Social Network Analysis and Mining (<strong>ASONAM	</strong>), short paper, 2021. 
 <p>  </p>	
 
 <li>Shiyuan Zheng, <strong>Hong Xie*</strong> and John C.S. Lui. </li>
-<i>Social Visibility Optimization in OSNs with Anonymity Guarantees: Modeling, Algorithms and Applications.  
+<i>
+<a href="https://ieeexplore.ieee.org/abstract/document/9458943">
+Social Visibility Optimization in OSNs with Anonymity Guarantees: Modeling, Algorithms and Applications.  
+</a> 
 </i>
 <br> 
 IEEE International Conference on Data Engineering (<strong>ICDE</strong>), short paper, 2021. 
 <p>  </p>
 
 <li>Xiaoying Zhang, <strong>Hong Xie*</strong> and John C.S. Lui. </li>
-<i>Heterogeneous Information Assisted Bandit Learning: Theory and Application.  
+<i>
+<a href="https://ieeexplore.ieee.org/abstract/document/9458660">
+Heterogeneous Information Assisted Bandit Learning: Theory and Application. 
+</a> 
 </i>
 <br> 
 IEEE International Conference on Data Engineering (<strong>ICDE</strong>), short paper, 2021. 
@@ -382,7 +412,7 @@ pp. 19:1--19:12, 2014.
 <p class="style6"> <strong>Journals:</strong></p>
 <ol reversed>
 
-<li><strong>Hong Xie*</strong>, John C.S. Lui&nbsp; </li>
+<li><strong>Hong Xie</strong>, John C.S. Lui&nbsp; </li>
 <i> 
 ``Cooperation Preference Aware Shapley Value: Modeling, Algorithms and Applications.&#39;&#39; 
 </i><br> 
@@ -396,81 +426,103 @@ accepted to IEEE/ACM Transactions on Networking (<strong>ToN</strong>), 2022.
 accepted to IEEE Transactions on Network Science and Engineering  (<strong>TNSE</strong>), 2022. 
 <p> </p>
 
-<li>Rui Wang, Yongkun Li, Yinlong Xu, <strong>Hong Xie</strong>, John C.S. Lui, Shuibing He&nbsp; </li>
-<i> 
-``Towards Fast and Scalable Random Walks over Disk-Resident Graphs via Efficient I/O Management.&#39;&#39; 
-</i><br> 
-accepted to ACM Transactions on Storage (<strong>TOS</strong>), 2022. .
-<p> </p>
-
 <li><strong>Hong Xie</strong>, Qiao Tang and Qingsheng Zhu&nbsp; </li>
 <i> 
+<a href="https://ieeexplore.ieee.org/abstract/document/9750401">
 ``A Multiplier Bootstrap Approach to Designing Robust Algorithms for Contextual Bandits.&#39;&#39; 
+</a>
 </i><br> 
 accepted to IEEE Transactions on Neural Networks and Learning Systems (<strong>TNNLS</strong>), 2022. .
 <p> </p>
 
-<li>Shiyuan Zheng, <strong>Hong Xie*</strong>, and John C.S. Lui&nbsp; </li>
-<i> 
-``Optimizing Social Visibility in OSNs with Anonymity Guarantees: Efficient Algorithms and Applications.&#39;&#39; 
-</i><br> 
-accepted to IEEE Transactions on Network Science and Engineering  (<strong>TNSE</strong>), 2022. .
-<p> </p>
-
-<li>Xiaoying Zhang, <strong>Hong Xie*</strong>, and John C.S. Lui&nbsp; </li>
-<i> 
-``Improving Bandit Learning via Heterogeneous Information Networks: Algorithms and Applications.&#39;&#39; 
-</i><br> 
-accepted to ACM Transactions on Knowledge Discovery from Data  (<strong>TKDD</strong>), 2022. .
-<p> </p>
-
 <li>Yongkun Li, Rui Wang, Shuai Lin, Weijie Wu,, <strong>Hong Xie</strong>, Yinlong Xu, John C.S. Lui&nbsp; </li>
 <i> 
+<a href="https://ieeexplore.ieee.org/abstract/document/9712235">
 ``Common Neighbors Matter: Fast Random Walk Sampling with Common Neighbor Awareness.&#39;&#39; 
+</a>
 </i><br> 
 accepted to IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>), 2022. .
 <p> </p>
 
 <li>Xiaoying Zhang, <strong>Hong Xie*</strong>, Pei Yi and John C.S. Lui&nbsp; </li>
 <i> 
+<a href="https://ieeexplore.ieee.org/abstract/document/9714881">
 ``Enhancing Sybil Detection via Social-Activity Networks: A Random Walk Approach.&#39;&#39; 
+</a>
 </i><br> 
 accepted to IEEE Transactions on Dependable and Secure Computing (<strong>TDSC</strong>), 2022. .
 <p> </p>
 
 <li><strong>Hong Xie</strong>, Pei Yi, Yongkun Li and John C.S. Lui&nbsp; </li>
 <i> 
+<a href="https://ieeexplore.ieee.org/abstract/document/9610982">
 ``Optimizing Random Walk Based Statistical Estimation over Graphs via Bootstrapping.&#39;&#39; 
+</a>
 </i><br> 
 accepted to IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>), 2021..
 <p> </p>
 
 <li>Xiongxiao Xu, <strong>Hong Xie*</strong>, John C.S. Lui&nbsp; </li>
 <i> 
+<a href="https://ieeexplore.ieee.org/abstract/document/9614656">
 ``Generalized Contextual Bandits With Latent Features: Algorithms and Applications.&#39;&#39; 
+</a> 
 </i><br> 
 accepted to IEEE Transactions on Neural Networks and Learning Systems (<strong>TNNLS</strong>), 2021.
 <p> </p>
 
 <li><strong>Hong Xie</strong>, John C.S. Lui&nbsp; </li>
 <i> 
-``A Reinforcement Learning Approach to Price Cloud Resources with Provable Convergence Guarantees.&#39;&#39; 
+<a href="https://ieeexplore.ieee.org/abstract/document/9451547">
+``A Reinforcement Learning Approach to Price Cloud Resources with Provable Convergence Guarantees.&#39;&#39;
+</a> 
 </i><br> 
 accepted to IEEE Transactions on Neural Networks and Learning Systems (<strong>TNNLS</strong>), 2021.
 <p> </p>
 
 <li>Tingwei Liu, <strong>Hong Xie*</strong>, John C.S. Lui&nbsp; </li>
-<i> 
-``Online Zero-Cost Learning: Optimizing Large Scale Network Rare Threats Simulation.&#39;&#39; 
+<i>  
+<a href="https://ieeexplore.ieee.org/abstract/document/9411741">
+``Online Zero-Cost Learning: Optimizing Large Scale Network Rare Threats Simulation.&#39;&#39;
+</a>
 </i><br> 
 accepted to IEEE Transactions on Mobile Computing (<strong>TMC</strong>), 2021.
 <p> </p>
 
 <li><strong>Hong Xie</strong>, John C.S. Lui&nbsp; </li>
 <i> 
-``Quantifying Worker Reliability for Crowdsensing Applications: Robust Feedback Rating & Convergence.&#39;&#39; 
+<a href="https://ieeexplore.ieee.org/abstract/document/9400757">
+``Quantifying Worker Reliability for Crowdsensing Applications: Robust Feedback Rating & Convergence.&#39;&#39;  
+</a>
 </i><br> 
 accepted to IEEE Transactions on Mobile Computing (<strong>TMC</strong>), 2021.
+<p> </p>
+
+<li>Rui Wang, Yongkun Li, Yinlong Xu, <strong>Hong Xie</strong>, John C.S. Lui, Shuibing He&nbsp; </li>
+<i> 
+<a href="https://dl.acm.org/doi/10.1145/3533579">
+``Towards Fast and Scalable Random Walks over Disk-Resident Graphs via Efficient I/O Management.&#39;&#39; 
+</a>
+</i><br> 
+ACM Transactions on Storage (<strong>TOS</strong>), vol 18 (4), 1-33, 2022. 
+<p> </p>
+
+<li>Shiyuan Zheng, <strong>Hong Xie*</strong>, and John C.S. Lui&nbsp; </li>
+<i> 
+<a href="https://ieeexplore.ieee.org/abstract/document/9736639">
+``Optimizing Social Visibility in OSNs with Anonymity Guarantees: Efficient Algorithms and Applications.&#39;&#39;  
+</a>
+</i><br> 
+IEEE Transactions on Network Science and Engineering  (<strong>TNSE</strong>), vol 9(4), pp. 2237-2251, 2022.  
+<p> </p>
+
+<li>Xiaoying Zhang, <strong>Hong Xie*</strong>, and John C.S. Lui&nbsp; </li>
+<i> 
+<a href="https://dl.acm.org/doi/abs/10.1145/3522590">
+``Improving Bandit Learning via Heterogeneous Information Networks: Algorithms and Applications.&#39;&#39; 
+</a>
+</i><br> 
+ACM Transactions on Knowledge Discovery from Data  (<strong>TKDD</strong>), vol 16(6), pp. 1-25, 2022.  
 <p> </p>
 
 <li>Ye Li, <strong>Hong Xie*</strong>, Yishi Lin and John C.S. Lui </li>
@@ -479,7 +531,7 @@ accepted to IEEE Transactions on Mobile Computing (<strong>TMC</strong>), 2021.
 ``Rewarding Social Recommendation in OSNs: Empirical Evidences, Modeling and Optimizations.&#39;&#39; 
 </a>
 </i><br> 
-accepted to IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>), 2020.  
+IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>), vol 34(9), 4410-4424, 2022.  
 <p> </p>
 
 <li>Rui Wang, Yongkun Li, Shuai Lin, <strong>Hong Xie</strong>, Yinlong Xu, John C.S. Lui&nbsp; </li>
