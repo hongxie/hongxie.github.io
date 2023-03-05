@@ -63,7 +63,9 @@ The 26th Pacific-Asia Conference on Knowledge Discovery and Data Mining (<strong
 Interactive Log Parsing via Light-weight Feedback    
 </i>
 <br> 
-The Web Conference (<strong>WWW</strong>), 2023. 
+The Web Conference (<strong>WWW</strong>) 
+<span style="color:red"><strong>[CCF-A]</strong></span>
+, 2023. 
 <br> 
 (AR: 365/1900 = 19.2%) 
 <p>  </p>
@@ -74,6 +76,7 @@ A Predictive Coding Approach to Multivariate Time Series Anomaly Detection
 </i>
 <br> 
 The 28th International Conference on Database Systems for Advanced Applications (<strong>DASFAA</strong>), 2023. 
+<br> 
 (AR: 126/652 = 19.3%) 
 <p>  </p>
 
@@ -82,7 +85,11 @@ The 28th International Conference on Database Systems for Advanced Applications 
 Variance-Adaptive Algorithm for Probabilistic Maximum Coverage Bandits with General Feedback    
 </i>
 <br> 
-IEEE International Conference on Computer Communications (<strong>INFOCOM</strong>), 2023. 
+IEEE International Conference on Computer Communications (<strong>INFOCOM</strong>)
+<span style="color:red"><strong>[CCF-A]</strong></span>
+, 2023. 
+<br> 
+(AR: 252/1312 = 19.2%) 
 <p>  </p>
 
 <li>Shiyuan Zheng, Xudong Liu, <strong>Hong Xie*</strong>, John C.S. Lui. </li>
@@ -103,7 +110,9 @@ Multiple-Play Stochastic Bandits with Shareable Finite-Capacity Arms.
 </a> 
 </i>
 <br> 
-The 39th International Conference on Machine Learning (<strong>ICML</strong>), 2022. 
+The 39th International Conference on Machine Learning (<strong>ICML</strong>)
+<span style="color:red"><strong>[CCF-A]</strong></span>
+, 2022. 
 <p>  </p>
 
 <li>Xuchuang Wang, <strong>Hong Xie*</strong>, John C.S. Lui. </li>
@@ -113,7 +122,9 @@ Multi-Player Multi-Armed Bandits with Finite Shareable Resources Arms: Learning 
 </a>
 </i>
 <br> 
-31st International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 2022. 
+31st International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>)
+<span style="color:red"><strong>[CCF-A]</strong></span>
+, 2022. 
 <p>  </p>
 
 <li>Junpu Chen, <strong>Hong Xie*</strong>. </li>
@@ -123,7 +134,9 @@ An Online Learning Approach to Sequential User-centric Selection Problems.
 </a> 
 </i>
 <br> 
-Thirty-Fifth AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2022. 
+Thirty-Fifth AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>)
+<span style="color:red"><strong>[CCF-A]</strong></span>
+, 2022. 
 <p>  </p>
 
 <li>Qiao Tang, <strong>Hong Xie*</strong>. </li>
@@ -143,7 +156,9 @@ Quantifying Assimilate-Contrast Effects in Online Rating Systems: Modeling, Anal
 </a> 
 </i>
 <br> 
-ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD</strong>), 2021. 
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD</strong>)
+<span style="color:red"><strong>[CCF-A]</strong></span>
+, 2021. 
 <p>  </p>
 
 <li>Qiao Tang, <strong>Hong Xie*</strong>, Yunni Xia, Jia Lee, Qingsheng Zhu. </li>
@@ -153,7 +168,9 @@ Robust Contextual Bandits via Bootstrapping.
 </a> 
 </i>
 <br> 
-Thirty-Fifth AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2021. 
+Thirty-Fifth AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>)
+<span style="color:red"><strong>[CCF-A]</strong></span>
+, 2021. 
 <p>  </p>
 
 <li>Ye Li, <strong>Hong Xie*</strong>, Yishi Lin, and John C.S. Lui. </li>
@@ -163,7 +180,9 @@ Unifying Offline Causal Inference and Online Bandit Learning for Data Driven Dec
 </a> 
 </i>
 <br> 
-The Web Conference (<strong>WWW</strong>), 2021. 
+The Web Conference (<strong>WWW</strong>)
+<span style="color:red"><strong>[CCF-A]</strong></span>
+, 2021. 
 <p>  </p>
 
 <li>Pei Yi, <strong>Hong Xie*</strong>, Yongkun Li, and John C.S. Lui. </li>
@@ -173,7 +192,9 @@ A Bootstrapping Approach to Optimize Random Walk Based Statistical Estimation ov
 </a>  
 </i>
 <br> 
-IEEE International Conference on Data Engineering (<strong>ICDE</strong>), 2021. 
+IEEE International Conference on Data Engineering (<strong>ICDE</strong>)
+<span style="color:red"><strong>[CCF-A]</strong></span>
+, 2021. 
 <p>  </p>	
 
 <li>Shiyuan Zheng, <strong>Hong Xie*</strong> and John C.S. Lui. </li>
@@ -193,7 +214,9 @@ Social Visibility Optimization in OSNs with Anonymity Guarantees: Modeling, Algo
 </a> 
 </i>
 <br> 
-IEEE International Conference on Data Engineering (<strong>ICDE</strong>), short paper, 2021. 
+IEEE International Conference on Data Engineering (<strong>ICDE</strong>)
+<span style="color:red"><strong>[CCF-A]</strong></span>
+, short paper, 2021. 
 <p>  </p>
 
 <li>Xiaoying Zhang, <strong>Hong Xie*</strong> and John C.S. Lui. </li>
@@ -203,7 +226,9 @@ Heterogeneous Information Assisted Bandit Learning: Theory and Application.
 </a> 
 </i>
 <br> 
-IEEE International Conference on Data Engineering (<strong>ICDE</strong>), short paper, 2021. 
+IEEE International Conference on Data Engineering (<strong>ICDE</strong>)
+<span style="color:red"><strong>[CCF-A]</strong></span>
+, short paper, 2021. 
 <p>  </p>
 
 
@@ -214,7 +239,9 @@ IEEE International Conference on Data Engineering (<strong>ICDE</strong>), short
 </a> 
 </i>
 <br> 
-International Conference on Computer Communication (<strong>INFOCOM</strong>), 2020. 
+International Conference on Computer Communication (<strong>INFOCOM</strong>)
+<span style="color:red"><strong>[CCF-A]</strong></span>
+, 2020. 
 <br>
 <span style="color:red"><strong>(Best Paper Candidate)</strong></span>
 <p>  </p>
@@ -227,7 +254,9 @@ International Conference on Computer Communication (<strong>INFOCOM</strong>), 2
 </a> 
 </i>
 <br> 
-USENIX Annual Technical Conference (<strong>ATC</strong>), 2020. 
+USENIX Annual Technical Conference (<strong>ATC</strong>)
+<span style="color:red"><strong>[CCF-A]</strong></span>
+, 2020. 
 <p>  </p>
 
 <li>Xiaoying Zhang, <strong>Hong Xie</strong>, Hang Li and John C.S. Lui. </li>
@@ -237,7 +266,9 @@ USENIX Annual Technical Conference (<strong>ATC</strong>), 2020.
 </a> 
 </i>
 <br> 
-The Web Conference  (<strong>WWW</strong>), 2020. 
+The Web Conference  (<strong>WWW</strong>)
+<span style="color:red"><strong>[CCF-A]</strong></span>
+, 2020. 
 <p>  </p>
 
 <li><strong>Hong Xie</strong>, and Mingze Zhong </li>
@@ -267,7 +298,9 @@ IEEE International Conference on Data Mining (<strong>ICDM</strong>), pp. 1180-1
 </a>   
 </i>
 <br> 
-IEEE International Conference on Data Engineering (<strong>ICDE</strong>), pp. 962-973, 2019. 
+IEEE International Conference on Data Engineering (<strong>ICDE</strong>)
+<span style="color:red"><strong>[CCF-A]</strong></span>
+, pp. 962-973, 2019. 
 <p>  </p>
 
 <li><strong>Hong Xie</strong>, Yongkun Li, John C.S. Lui </li> 
@@ -276,7 +309,9 @@ IEEE International Conference on Data Engineering (<strong>ICDE</strong>), pp. 9
 </a>   
 </i>
 <br> 
-Thirty-Third AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), pp. 5490-5497, 2019. 
+Thirty-Third AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>)
+<span style="color:red"><strong>[CCF-A]</strong></span>
+, pp. 5490-5497, 2019. 
 <p>  </p>
 
 <li><strong>Hong Xie</strong>, Yongkun Li, John C.S. Lui </li>
@@ -286,7 +321,9 @@ Characterization and Online Learning. &#39;&#39;&nbsp;
 </a>    
 </i>
 <br> 
-Thirty-Third AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), pp. 7992-7999, 2019. 
+Thirty-Third AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>)
+<span style="color:red"><strong>[CCF-A]</strong></span>
+, pp. 7992-7999, 2019. 
 <p> </p>
 
 <li>Xiaoying Zhang, <strong>Hong Xie</strong>, Junzhou Zhao, John C.S. Lui.  </li>
