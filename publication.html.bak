@@ -37,6 +37,30 @@
 <p class="style6"><strong>Conferences (*corresponding author):</strong></p>
 <ol reversed>
 
+<li>Xiaoyu Shi, Quanliang Liu, <strong>Hong Xie*</strong>, Mingsheng Shang. </li>
+<i> 
+Towards Long-term Fairness in Interactive Recommendation: A Maximum Entropy Reinforcement Learning Approach 
+</i>
+<br> 
+IEEE International Conference on Web Services  (<strong>ICWS</strong>), short paper, 2023. 
+<p>  </p>
+
+<li>Hanxuan Xu, <strong>Hong Xie*</strong>, Xiaoyu Shi, Mingsheng Shang. </li>
+<i> 
+Exploring Social-activity Networks for Sybil Detection: Models and Efficient Algorithms 
+</i>
+<br> 
+IFIP Networking  (<strong>Networking</strong>), 2023. 
+<p>  </p>
+
+<li>Jinyu Mo, <strong>Hong Xie*</strong>, Xiaoyu Shi, Mingsheng Shang. </li>
+<i> 
+CGCCMR: An Enhanced Multi-gate Model for Cross-Market Recommendation   
+</i>
+<br> 
+International Joint Conference on Neural Networks  (<strong>IJCNN</strong>), 2023. 
+<p>  </p>
+
 <li>Jinyu Mo, <strong>Hong Xie*</strong>. </li>
 <i> 
 A Multi-player MAB Approach for Distributed Selection Problems   
@@ -503,6 +527,33 @@ pp. 19:1--19:12, 2014.
 <p class="style6"> <strong>Journals:</strong></p>
 <ol reversed>
 
+<li><strong>Hong Xie</strong>, Mingze Zhong, Xiaoyu Shi, Xiaoying Zhang, Jiang Zhong, Mingsheng Shang&nbsp; </li>
+<i> 
+``Probabilistic Modeling of Assimilate-ContrastEffects in Online Rating Systems.&#39;&#39; 
+</i><br> 
+accepted to IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>) 
+<span style="color:red"><strong>[CCF-A]</strong></span>
+. 
+<p> </p>
+
+<li>Xuchuang Wang, <strong>Hong Xie</strong>, John C.S. Lui&nbsp; </li>
+<i> 
+``Analyzing Queueing Problems via Bandits with Linear Reward & Nonlinear Workload Fairness.&#39;&#39; 
+</i><br> 
+accepted to IEEE Transactions on Mobile Computing (<strong>TMC</strong>)
+<span style="color:red"><strong>[CCF-A]</strong></span>
+. 
+<p> </p>
+
+
+<li>Xuchuang Wang, <strong>Hong Xie</strong>, Pinghui Wang, John C.S. Lui&nbsp; </li>
+<i> 
+``Optimizing Recommendations under Abandonment Risks: Models and Algorithms.&#39;&#39; 
+</i><br> 
+accepted to Elsevier Performance Evaluation Journal (<strong>Performance Evaluation</strong>). 
+<p> </p>
+
+
 <li><strong>Hong Xie</strong>, John C.S. Lui&nbsp; </li>
 <i> 
 ``Cooperation Preference Aware Shapley Value: Modeling, Algorithms and Applications.&#39;&#39; 
@@ -512,12 +563,6 @@ accepted to IEEE/ACM Transactions on Networking (<strong>ToN</strong>)
 . 
 <p> </p>
 
-<li>Shiyuan Zheng, <strong>Hong Xie*</strong>, John C.S. Lui&nbsp; </li>
-<i> 
-``Pricing Social Visibility Service in Online Social Networks: Modeling and Algorithms.&#39;&#39; 
-</i><br> 
-accepted to IEEE Transactions on Network Science and Engineering  (<strong>TNSE</strong>). 
-<p> </p>
 
 <li><strong>Hong Xie</strong>, Qiao Tang and Qingsheng Zhu&nbsp; </li>
 <i> 
@@ -528,14 +573,38 @@ accepted to IEEE Transactions on Network Science and Engineering  (<strong>TNSE<
 accepted to IEEE Transactions on Neural Networks and Learning Systems (<strong>TNNLS</strong>).
 <p> </p>
 
+<li>Xiongxiao Xu, <strong>Hong Xie*</strong>, John C.S. Lui&nbsp; </li>
+<i> 
+<a href="https://ieeexplore.ieee.org/abstract/document/9614656">
+``Generalized Contextual Bandits With Latent Features: Algorithms and Applications.&#39;&#39; 
+</a> 
+</i><br> 
+accepted to IEEE Transactions on Neural Networks and Learning Systems (<strong>TNNLS</strong>).
+<p> </p>
+
+<li><strong>Hong Xie</strong>, Haoran Gu, Zhi Qi&nbsp; </li>
+<i> 
+``Efficient Algorithms for Multi-armed Bandits with Additional Feedbacks: Modeling and Algorithms.&#39;&#39; 
+</i><br> 
+Information Sciences (<strong>INS</strong>), 633: 453-468, 2023. 
+<p> </p>
+
+<li>Shiyuan Zheng, <strong>Hong Xie*</strong>, John C.S. Lui&nbsp; </li>
+<i> 
+``Pricing Social Visibility Service in Online Social Networks: Modeling and Algorithms.&#39;&#39; 
+</i><br> 
+IEEE Transactions on Network Science and Engineering  (<strong>TNSE</strong>), 10(2): 859-870, 2023. 
+<p> </p>
+
 <li>Yongkun Li, Rui Wang, Shuai Lin, Weijie Wu,, <strong>Hong Xie</strong>, Yinlong Xu, John C.S. Lui&nbsp; </li>
 <i> 
 <a href="https://ieeexplore.ieee.org/abstract/document/9712235">
 ``Common Neighbors Matter: Fast Random Walk Sampling with Common Neighbor Awareness.&#39;&#39; 
 </a>
 </i><br> 
-accepted to IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>) 
-<span style="color:red"><strong>[CCF-A]</strong></span>
+IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>) 
+<span style="color:red"><strong>[CCF-A]</strong></span>, 
+Vol. 35(5): 4570-4584 
 .
 <p> </p>
 
@@ -545,18 +614,10 @@ accepted to IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</s
 ``Enhancing Sybil Detection via Social-Activity Networks: A Random Walk Approach.&#39;&#39; 
 </a>
 </i><br> 
-accepted to IEEE Transactions on Dependable and Secure Computing (<strong>TDSC</strong>)
-<span style="color:red"><strong>[CCF-A]</strong></span>
+IEEE Transactions on Dependable and Secure Computing (<strong>TDSC</strong>)
+<span style="color:red"><strong>[CCF-A]</strong></span>,
+Vol. 20(2): 1213-1227, 2023
 .
-<p> </p>
-
-<li>Xiongxiao Xu, <strong>Hong Xie*</strong>, John C.S. Lui&nbsp; </li>
-<i> 
-<a href="https://ieeexplore.ieee.org/abstract/document/9614656">
-``Generalized Contextual Bandits With Latent Features: Algorithms and Applications.&#39;&#39; 
-</a> 
-</i><br> 
-accepted to IEEE Transactions on Neural Networks and Learning Systems (<strong>TNNLS</strong>).
 <p> </p>
 
 <li><strong>Hong Xie</strong>, Pei Yi, Yongkun Li and John C.S. Lui&nbsp; </li>
@@ -686,7 +747,9 @@ IEEE/ACM Transactions on Networking (<strong>ToN</strong>)
 ``Mining Deficiencies of Online Reputation Systems: Methodologies, Experiments and Implications.&#39;&#39; 
 </a>
 </i><br> 
-IEEE Transactions on Services Computing (<strong>TSC</strong>), vol. 13(5), pp. 887-900, 2020.
+IEEE Transactions on Services Computing (<strong>TSC</strong>), 
+<span style="color:red"><strong>[CCF-A]</strong></span>
+vol. 13(5), pp. 887-900, 2020.
 <p> </p>
 
 <li>Xiaoying Zhang, <strong>Hong Xie*</strong>, Junzhou Zhao, John C.S. Lui.&nbsp; </li>
@@ -739,7 +802,7 @@ Analysis, Tradeoffs and Inference.&#39;&#39;
 </a>
 </i><br> 
 IEEE Transactions on Services Computing 
-(<strong>TSC</strong>), 
+(<strong>TSC</strong>), <span style="color:red"><strong>[CCF-A]</strong></span>
 vol. 11, pp. 90-102, 2018.<br> 
 <p> </p>
 
