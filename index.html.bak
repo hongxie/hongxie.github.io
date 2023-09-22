@@ -115,6 +115,124 @@ You are encouraged to apply, if you are interested in machine learning and big d
 </ul>
  
 
+
+<hr>
+<h2>Selected Publications ( 
+<a href="https://hongxie.github.io/publication"> full list </a>)</h2>
+<ul>
+<li>Xiaoying Zhang, Junpu Chen, Hongning Wang, <strong>Hong Xie</strong>, Yang Liu, John C.S. Lui, Hang Li </li>
+<i> 
+Uncertainty-Aware Instance Reweighting for Off-Policy Learning. 
+</i>
+<br> 
+Thirty-seventh Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 
+<span style="color:red"><strong>[CCF-A]</strong></span>, 
+2023. 
+<p>  </p>
+
+<li>Liming Wang, <strong>Hong Xie*</strong>, Ye Li, Jian Tan, John C.S. Lui. </li>
+<i> 
+Interactive Log Parsing via Light-weight Feedback    
+</i>
+<br> 
+The Web Conference (<strong>WWW</strong>) 
+<span style="color:red"><strong>[CCF-A]</strong></span>
+, 2023. 
+<p>  </p>
+
+<li>Xuchuang Wang, <strong>Hong Xie*</strong>, John C.S. Lui. </li>
+<i>
+<a href="https://proceedings.mlr.press/v162/wang22af.html">
+Multiple-Play Stochastic Bandits with Shareable Finite-Capacity Arms.    
+</a> 
+</i>
+<br> 
+The 39th International Conference on Machine Learning (<strong>ICML</strong>)
+<span style="color:red"><strong>[CCF-A]</strong></span>
+, 2022. 
+<p>  </p>
+
+<li>Mingze Zhong, <strong>Hong Xie*</strong>, Qingsheng Zhu. </li>
+<i>
+<a href="https://dl.acm.org/doi/abs/10.1145/3447548.3467244">
+Quantifying Assimilate-Contrast Effects in Online Rating Systems: Modeling, Analysis and Application.      
+</a> 
+</i>
+<br> 
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD</strong>)
+<span style="color:red"><strong>[CCF-A]</strong></span>
+, 2021. 
+<p>  </p>
+
+<li>Tingwei Liu, <strong>Hong Xie*</strong>, and John C.S. Lui. </li>
+<i>
+<a href="https://ieeexplore.ieee.org/abstract/document/9155466">
+``Optimizing Mixture Importance Sampling Via Online Learning: Algorithms and Applications. &#39;&#39;&nbsp; 
+</a> 
+</i>
+<br> 
+International Conference on Computer Communication (<strong>INFOCOM</strong>)
+<span style="color:red"><strong>[CCF-A]</strong></span>
+, 2020. 
+<br>
+<span style="color:red"><strong>(Best Paper Candidate)</strong></span>
+<p>  </p>
+
+<li><strong>Hong Xie</strong>, Mingze Zhong, Xiaoyu Shi, Xiaoying Zhang, Jiang Zhong, Mingsheng Shang&nbsp; </li>
+<i> 
+``Probabilistic Modeling of Assimilate-ContrastEffects in Online Rating Systems.&#39;&#39; 
+</i><br> 
+accepted to IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>) 
+<span style="color:red"><strong>[CCF-A]</strong></span>
+. 
+<p> </p>
+
+<li><strong>Hong Xie*</strong>, John C.S. Lui&nbsp; </li>
+<i> 
+``Cooperation Preference Aware Shapley Value: Modeling, Algorithms and Applications.&#39;&#39; 
+</i><br> 
+accepted to IEEE/ACM Transactions on Networking (<strong>ToN</strong>)
+<span style="color:red"><strong>[CCF-A]</strong></span>
+. 
+<p> </p>
+
+<li><strong>Hong Xie</strong>, Pei Yi, Yongkun Li and John C.S. Lui&nbsp; </li>
+<i> 
+<a href="https://ieeexplore.ieee.org/abstract/document/9610982">
+``Optimizing Random Walk Based Statistical Estimation over Graphs via Bootstrapping.&#39;&#39; 
+</a>
+</i><br> 
+IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>)
+<span style="color:red"><strong>[CCF-A]</strong></span>
+, 35(3), 2916-2929, 2023.
+<p> </p>
+
+<li><strong>Hong Xie</strong>, John C.S. Lui&nbsp; </li>
+<i> 
+<a href="https://ieeexplore.ieee.org/abstract/document/9400757">
+``Quantifying Worker Reliability for Crowdsensing Applications: Robust Feedback Rating & Convergence.&#39;&#39;  
+</a>
+</i><br> 
+IEEE Transactions on Mobile Computing (<strong>TMC</strong>)
+<span style="color:red"><strong>[CCF-A]</strong></span>
+, 22(1): 459-471, 2023.
+<p> </p>
+
+<li>Ye Li, <strong>Hong Xie*</strong>, Yishi Lin and John C.S. Lui </li>
+<i>  
+<a href="https://ieeexplore.ieee.org/abstract/document/9263376">
+``Rewarding Social Recommendation in OSNs: Empirical Evidences, Modeling and Optimizations.&#39;&#39; 
+</a>
+</i><br> 
+IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>)
+<span style="color:red"><strong>[CCF-A]</strong></span>
+, vol 34(9), 4410-4424, 2022.  
+<p> </p>
+</ul>
+
+
+
+
 <hr>
 <h2>Teaching</h2>
 <ul>
@@ -145,9 +263,9 @@ You are encouraged to apply, if you are interested in machine learning and big d
 <h2> Professional Services</h2>
 <strong>Technical programm committee members:</strong>
 <ul>
-<li class="style7">2024: AAAI(TPC), AISTATS(TPC), ICLR(Reviewer), WWW(Reviewer)</li>
-<li class="style7">2023: AAAI(TPC), IJCAI(TPC), AISTATS(TPC), ECML-PKDD(TPC), NeurIPS(Reviewer), ICML(Reviewer)</li>
-<li class="style7">2022: AAAI(TPC), IJCAI(TPC), NeurIPS(Reviewer), ICML(Reviewer), AISTAT(Reviewer)</li>
+<li class="style7">2024: AAAI(TPC), AISTATS(TPC), ICLR(Rev.), WWW(Rev.)</li>
+<li class="style7">2023: AAAI(TPC), IJCAI(TPC), AISTATS(TPC), ECML-PKDD(TPC), NeurIPS(Rev.), ICML(Rev.)</li>
+<li class="style7">2022: AAAI(TPC), IJCAI(TPC), NeurIPS(Rev.), ICML(Rev.), AISTAT(Rev.)</li>
 <li class="style7">2021: AAAI(TPC)</li>
 <li class="style7">2019: IEEE ASONAM (IT TPC) </li>
 <li class="style7">2018: IEEE ASONAM (IT TPC)</li> 
