@@ -37,6 +37,15 @@
 <p class="style6"><strong>Conferences (*corresponding author):</strong></p>
 <ol reversed>
 
+<li>Xiaoying Zhang, Junpu Chen, Hongning Wang, <strong>Hong Xie</strong>, Yang Liu, John C.S. Lui, Hang Li </li>
+<i> 
+Uncertainty-Aware Instance Reweighting for Off-Policy Learning. 
+</i>
+<br> 
+Thirty-seventh Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2023. 
+<p>  </p>
+
+
 <li>Xiaoyu Shi, Quanliang Liu, <strong>Hong Xie*</strong>, Mingsheng Shang. </li>
 <i> 
 Towards Long-term Fairness in Interactive Recommendation: A Maximum Entropy Reinforcement Learning Approach 
@@ -518,6 +527,15 @@ pp. 19:1--19:12, 2014.
 
 <p class="style6"> <strong>Journals:</strong></p>
 <ol reversed>
+
+<li>Xiaoyu Shi, Quanliang Liu, <strong>Hong Xie</strong>, Di Wu, Bo Peng, Mingsheng Shang, Defu Lian &nbsp; </li>
+<i> 
+``Relieving Popularity Bias in Interactive Recommendation: A Diversity-Novelty-Aware Reinforcement Learning Approach.&#39;&#39; 
+</i><br> 
+accepted to Transactions on Information Systems (<strong>TOIS</strong>) 
+<span style="color:red"><strong>[CCF-A]</strong></span>
+. 
+<p> </p>
 
 <li><strong>Hong Xie</strong>, Mingze Zhong, Xiaoyu Shi, Xiaoying Zhang, Jiang Zhong, Mingsheng Shang&nbsp; </li>
 <i> 
