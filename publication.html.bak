@@ -42,7 +42,9 @@
 Uncertainty-Aware Instance Reweighting for Off-Policy Learning. 
 </i>
 <br> 
-Thirty-seventh Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2023. 
+Thirty-seventh Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 
+<span style="color:red"><strong>[CCF-A]</strong></span>, 
+2023. 
 <p>  </p>
 
 
@@ -527,6 +529,15 @@ pp. 19:1--19:12, 2014.
 
 <p class="style6"> <strong>Journals:</strong></p>
 <ol reversed>
+
+<li>Tao Tan, <strong>Hong Xie</strong>, Liang Feng &nbsp; </li>
+<i> 
+``Q-learning with Heterogeneous Update Strategy.&#39;&#39; 
+</i><br> 
+accepted to Transactions on Information Systems (<strong>TOIS</strong>) 
+<span style="color:red"><strong>[CCF-A]</strong></span>
+. 
+<p> </p>
 
 <li>Xiaoyu Shi, Quanliang Liu, <strong>Hong Xie</strong>, Di Wu, Bo Peng, Mingsheng Shang, Defu Lian &nbsp; </li>
 <i> 
