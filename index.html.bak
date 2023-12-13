@@ -91,11 +91,7 @@ DATA MINING, MACHINE LEARNING
 Particularly focus on desgning and analyzing data driven decision making models and algorithms for Internet applications 
 such as recommendation systems, online social networks, cloud systems, etc. 
 Currently, I am very interested in data driven decision making problems arising from AIOps (artificial intelligence for IT operations).  
-</i> 
-  
-<li> <strong>Research outputs:</strong> 
-<a href="https://hongxie.github.io/publication"> Publications </a>
-</i>    
+</i>   
 
 </ul>
 
@@ -126,7 +122,7 @@ Uncertainty-Aware Instance Reweighting for Off-Policy Learning.
 </i>
 <br> 
 Thirty-seventh Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 
-<span style="color:red"><strong>[CCF-A]</strong></span>, 
+<!--<span style="color:red"><strong>[CCF-A]</strong></span>, -->
 2023. 
 <p>  </p>
 
@@ -135,8 +131,7 @@ Thirty-seventh Conference on Neural Information Processing Systems (<strong>Neur
 Interactive Log Parsing via Light-weight Feedback    
 </i>
 <br> 
-The Web Conference (<strong>WWW</strong>) 
-<span style="color:red"><strong>[CCF-A]</strong></span>
+The Web Conference (<strong>WWW</strong>)  
 , 2023. 
 <p>  </p>
 
@@ -147,8 +142,7 @@ Multiple-Play Stochastic Bandits with Shareable Finite-Capacity Arms.
 </a> 
 </i>
 <br> 
-The 39th International Conference on Machine Learning (<strong>ICML</strong>)
-<span style="color:red"><strong>[CCF-A]</strong></span>
+The 39th International Conference on Machine Learning (<strong>ICML</strong>) 
 , 2022. 
 <p>  </p>
 
@@ -159,8 +153,7 @@ Quantifying Assimilate-Contrast Effects in Online Rating Systems: Modeling, Anal
 </a> 
 </i>
 <br> 
-ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD</strong>)
-<span style="color:red"><strong>[CCF-A]</strong></span>
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD</strong>) 
 , 2021. 
 <p>  </p>
 
@@ -171,8 +164,7 @@ ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD</stron
 </a> 
 </i>
 <br> 
-International Conference on Computer Communication (<strong>INFOCOM</strong>)
-<span style="color:red"><strong>[CCF-A]</strong></span>
+International Conference on Computer Communication (<strong>INFOCOM</strong>) 
 , 2020. 
 <br>
 <span style="color:red"><strong>(Best Paper Candidate)</strong></span>
@@ -182,8 +174,7 @@ International Conference on Computer Communication (<strong>INFOCOM</strong>)
 <i> 
 ``Probabilistic Modeling of Assimilate-ContrastEffects in Online Rating Systems.&#39;&#39; 
 </i><br> 
-accepted to IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>) 
-<span style="color:red"><strong>[CCF-A]</strong></span>
+accepted to IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>)  
 . 
 <p> </p>
 
@@ -191,8 +182,7 @@ accepted to IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</s
 <i> 
 ``Cooperation Preference Aware Shapley Value: Modeling, Algorithms and Applications.&#39;&#39; 
 </i><br> 
-accepted to IEEE/ACM Transactions on Networking (<strong>ToN</strong>)
-<span style="color:red"><strong>[CCF-A]</strong></span>
+accepted to IEEE/ACM Transactions on Networking (<strong>ToN</strong>) 
 . 
 <p> </p>
 
@@ -202,8 +192,7 @@ accepted to IEEE/ACM Transactions on Networking (<strong>ToN</strong>)
 ``Optimizing Random Walk Based Statistical Estimation over Graphs via Bootstrapping.&#39;&#39; 
 </a>
 </i><br> 
-IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>)
-<span style="color:red"><strong>[CCF-A]</strong></span>
+IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>) 
 , 35(3), 2916-2929, 2023.
 <p> </p>
 
@@ -213,8 +202,7 @@ IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>)
 ``Quantifying Worker Reliability for Crowdsensing Applications: Robust Feedback Rating & Convergence.&#39;&#39;  
 </a>
 </i><br> 
-IEEE Transactions on Mobile Computing (<strong>TMC</strong>)
-<span style="color:red"><strong>[CCF-A]</strong></span>
+IEEE Transactions on Mobile Computing (<strong>TMC</strong>) 
 , 22(1): 459-471, 2023.
 <p> </p>
 
@@ -224,8 +212,7 @@ IEEE Transactions on Mobile Computing (<strong>TMC</strong>)
 ``Rewarding Social Recommendation in OSNs: Empirical Evidences, Modeling and Optimizations.&#39;&#39; 
 </a>
 </i><br> 
-IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>)
-<span style="color:red"><strong>[CCF-A]</strong></span>
+IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>) 
 , vol 34(9), 4410-4424, 2022.  
 <p> </p>
 </ul>
@@ -263,7 +250,7 @@ IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>)
 <h2> Professional Services</h2>
 <strong>Technical programm committee members:</strong>
 <ul>
-<li class="style7">2024: AAAI(TPC), AISTATS(TPC), ICLR(Rev.), WWW(Rev.)</li>
+<li class="style7">2024: AAAI(TPC), AISTATS(TPC), ICML(Rev.), ICLR(Rev.), WWW(Rev.)</li>
 <li class="style7">2023: AAAI(TPC), IJCAI(TPC), AISTATS(TPC), ECML-PKDD(TPC), NeurIPS(Rev.), ICML(Rev.)</li>
 <li class="style7">2022: AAAI(TPC), IJCAI(TPC), NeurIPS(Rev.), ICML(Rev.), AISTAT(Rev.)</li>
 <li class="style7">2021: AAAI(TPC)</li>
