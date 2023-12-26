@@ -116,6 +116,17 @@ You are encouraged to apply, if you are interested in machine learning and big d
 <h2>Selected Publications ( 
 <a href="https://hongxie.github.io/publication"> full list </a>)</h2>
 <ul>
+
+<li>Hantao Yang, Xutong Liu, Zhiyong Wang, <strong>Hong Xie</strong>, John C.S. Lui, Defu Lian, Enhong Chen </li>
+<i> 
+Federated Contextual Cascading Bandits with Asynchronous Communication and Heterogeneous Users. 
+</i>
+<br> 
+Thirty-Eighth AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 
+<!-- <span style="color:red"><strong>[CCF-A]</strong></span>, -->
+2024. 
+<p>  </p>
+
 <li>Xiaoying Zhang, Junpu Chen, Hongning Wang, <strong>Hong Xie</strong>, Yang Liu, John C.S. Lui, Hang Li </li>
 <i> 
 Uncertainty-Aware Instance Reweighting for Off-Policy Learning. 
@@ -250,7 +261,7 @@ IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>)
 <h2> Professional Services</h2>
 <strong>Technical programm committee members:</strong>
 <ul>
-<li class="style7">2024: AAAI(TPC), AISTATS(TPC), ICML(Rev.), ICLR(Rev.), WWW(Rev.)</li>
+<li class="style7">2024: AAAI(TPC), IJCAI(TPC)£¬AISTATS(TPC), ICML(Rev.), ICLR(Rev.), WWW(Rev.)</li>
 <li class="style7">2023: AAAI(TPC), IJCAI(TPC), AISTATS(TPC), ECML-PKDD(TPC), NeurIPS(Rev.), ICML(Rev.)</li>
 <li class="style7">2022: AAAI(TPC), IJCAI(TPC), NeurIPS(Rev.), ICML(Rev.), AISTAT(Rev.)</li>
 <li class="style7">2021: AAAI(TPC)</li>
