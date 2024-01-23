@@ -44,9 +44,13 @@ style="height: 250px; width: 180px; margin-right: 15px; margin-top: 0px; margin-
 <h2>Hong Xie </h2>
 
 <h4>
-Ph.D. from 
-<a href="https://www.cuhk.edu.hk/english/index.html">CUHK</a> <BR>
-Email: xiehong2018@foxmail.com <br> 
+Research professor 
+<br>
+School of Computer Science and Technology
+<br>
+University of Science and Technology of China (USTC)
+<BR>
+Email: hongx87@ustc.edu.cn <br>
 </h4> 
 </td>
 </tr>
@@ -58,15 +62,15 @@ Email: xiehong2018@foxmail.com <br>
 <h2>Biography:</h2>
 <p>
 Hong Xie is currently a research professor at School of Computer Science and Technology, 
-University of Science and Technology of China. 
+University of Science and Technology of China (USTC). 
 He received Ph.D. degree in the <a href="http://www.cse.cuhk.edu.hk/">Department of Computer Science and Engineering</a> 
-at <a href="http://www.cuhk.edu.hk/">The Chinese University of Hong Kong</a> in 2015, 
+at <a href="http://www.cuhk.edu.hk/">The Chinese University of Hong Kong (CUHK) </a> in 2015, 
 proudly under the supervision of <a href="http://www.cse.cuhk.edu.hk/~cslui/">Prof. John C.S. Lui</a>.  
 He received his B.Eng. degree from <a href="http://cs.ustc.edu.cn/">the School of Computer Science and Technology</a> 
-at <a href="http://www.ustc.edu.cn/">The University of Science and Technology of China</a> in 2010.  
+at <a href="http://www.ustc.edu.cn/">The University of Science and Technology of China (USTC)</a> in 2010.  
 Hong Xie was a postdoctoral research fellow at 
 <a href="http://www.cse.cuhk.edu.hk/v7/en/index.html">Department of Computing Science and Engineering</a>, 
-<a href="https://www.cuhk.edu.hk/english/index.html">The Chinese University of Hong Kong (CUHK)</a>  
+<a href="https://www.cuhk.edu.hk/english/index.html"> CUHK </a>  
 hosted by <a href="http://www.cse.cuhk.edu.hk/~cslui/"> Prof. John C.S. Lui</a>,   
 and a postdoctoral research fellow at 
 <a href="https://www.comp.nus.edu.sg/">School of Computing</a>,  
@@ -86,11 +90,10 @@ He is a member of CCF, a member of IEEE and a member of ACM.
 <ul>
 
 <li> <strong>Research interests:</strong>  
-DATA MINING, MACHINE LEARNING 
+Online learning algorithms and its applications.  
 <br>
-Particularly focus on desgning and analyzing data driven decision making models and algorithms for Internet applications 
-such as recommendation systems, online social networks, cloud systems, etc. 
-Currently, I am very interested in data driven decision making problems arising from AIOps (artificial intelligence for IT operations).  
+Particularly focus on desgning and analyzing data driven decision making models and algorithms 
+for problems arising from Web, AIOps (artificial intelligence for IT operations) and AI for Science.  
 </i>   
 
 </ul>
