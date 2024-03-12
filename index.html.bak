@@ -46,11 +46,15 @@ style="height: 250px; width: 180px; margin-right: 15px; margin-top: 0px; margin-
 <h4>
 Research professor 
 <br>
-School of Computer Science and Technology
+<a href="http://cogskl.iflytek.com/">State Key Laboratory of Cognitive Intelligence</a>
 <br>
-University of Science and Technology of China (USTC)
+<a href="https://bigdata.ustc.edu.cn/">Anhui Province Key Laboratory of Big Data Analysis and Application (BDAA)</a>
+<br>
+<a href="https://cs.ustc.edu.cn/main.htm">School of Computer Science and Technology</a>  
+<br>
+<a href="https://www.ustc.edu.cn/">University of Science and Technology of China (USTC)</a> 
 <BR>
-Email: hongx87@ustc.edu.cn <br>
+Email: xiehong2018@foxmail.com <br>
 </h4> 
 </td>
 </tr>
@@ -61,8 +65,9 @@ Email: hongx87@ustc.edu.cn <br>
 <p>
 <h2>Biography:</h2>
 <p>
-Hong Xie is currently a research professor at School of Computer Science and Technology, 
-University of Science and Technology of China (USTC). 
+Hong Xie is currently a research professor at <a href="https://cs.ustc.edu.cn/main.htm">School of Computer Science and Technology</a>, 
+<a href="https://www.ustc.edu.cn/">University of Science and Technology of China (USTC)</a> . 
+He is a member of <a href="http://staff.ustc.edu.cn/~cheneh/">Prof. Enhong Chen's</a> research group. 
 He received Ph.D. degree in the <a href="http://www.cse.cuhk.edu.hk/">Department of Computer Science and Engineering</a> 
 at <a href="http://www.cuhk.edu.hk/">The Chinese University of Hong Kong (CUHK) </a> in 2015, 
 proudly under the supervision of <a href="http://www.cse.cuhk.edu.hk/~cslui/">Prof. John C.S. Lui</a>.  
@@ -90,7 +95,8 @@ He is a member of CCF, a member of IEEE and a member of ACM.
 <ul>
 
 <li> <strong>Research interests:</strong>  
-Online learning algorithms and its applications.  
+Context aware online learning including contextual bandits and contextual reinforcement learning, 
+with a special focus on the large scale setting.  
 <br>
 Particularly focus on desgning and analyzing data driven decision making models and algorithms 
 for problems arising from Web, AIOps (artificial intelligence for IT operations) and AI for Science.  
