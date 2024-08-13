@@ -37,12 +37,64 @@
 <p class="style6"><strong>Conferences (*corresponding author):</strong></p>
 <ol reversed>
 
+<li>Tao Tan, <strong>Hong Xie*</strong>, Defu Lian</li>
+<i> 
+Adaptive Order Q-learning. 
+</i>
+<br> 
+International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 
+<!-- <span style="color:red"><strong>[CCF-A]</strong></span>, -->
+2024. 
+<p>  </p>
+
 <li>Hantao Yang, Xutong Liu, Zhiyong Wang, <strong>Hong Xie</strong>, John C.S. Lui, Defu Lian, Enhong Chen </li>
 <i> 
 Federated Contextual Cascading Bandits with Asynchronous Communication and Heterogeneous Users. 
 </i>
 <br> 
 Thirty-Eighth AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 
+<!-- <span style="color:red"><strong>[CCF-A]</strong></span>, -->
+2024. 
+<p>  </p>
+
+<li>Zhaoyi Li, Gangwei Jiang, <strong>Hong Xie</strong>, Linqi Song, Defu Lian, Ying Wei </li>
+<i> 
+Understanding and Patching Compositional Reasoning in LLMs. 
+</i>
+<br> 
+The 62nd Annual Meeting of the Association for Computational Linguistics (<strong>ACL Findings</strong>), 
+<!-- <span style="color:red"><strong>[CCF-A]</strong></span>, -->
+2024. 
+<p>  </p>
+
+<li>Chongjun Xia, Xiaoyu Shi, <strong>Hong Xie*</strong>, Quanliang Liu and Mingsheng Shang</li>
+<i> 
+Investigating User Popularity Preference Differences for Long-term Fairness on Interactive Recommendation: A Hierarchical Reinforcement Learning Approach. 
+</i>
+<br> 
+IEEE
+International Conference on Web Services (<strong>ICWS</strong>), 
+<!-- <span style="color:red"><strong>[CCF-A]</strong></span>, -->
+2024. 
+<p>  </p>
+
+
+<li>Liguo Chen, Zhigang Gong, <strong>Hong Xie*</strong>, Mingqiang Zhou</li>
+<i> 
+False Negative Sample Aware Negative Sampling for Recommendation. 
+</i>
+<br> 
+Pacific-Asia Conference on Knowledge Discovery and Data Mining (<strong>PAKDD</strong>), 
+<!-- <span style="color:red"><strong>[CCF-A]</strong></span>, -->
+2024. 
+<p>  </p>
+
+<li>Yanying Huang, Haoran Gu, <strong>Hong Xie*</strong>, Mingqiang Zhou</li>
+<i> 
+A Thompson Sampling Approach to User-Centric Selection Problems. 
+</i>
+<br> 
+International Joint Conference on Neural Networks (<strong>IJCNN</strong>), 
 <!-- <span style="color:red"><strong>[CCF-A]</strong></span>, -->
 2024. 
 <p>  </p>
@@ -539,6 +591,36 @@ pp. 19:1--19:12, 2014.
 
 <p class="style6"> <strong>Journals:</strong></p>
 <ol reversed>
+
+<li>Tao Tan, <strong>Hong Xie*</strong>, Xiaoyu Shi, Mingsheng Shang &nbsp; </li>
+<i> 
+``A Meta-learning Approach to Mitigating the Estimation Bias of Q-learning.&#39;&#39; 
+</i><br> 
+accepted to ACM Transactions on Knowledge Discovery from Data (<strong>TKDD</strong>).   
+<p> </p>
+
+<li>Tao Tan, <strong>Hong Xie*</strong>, Yunni Xia, Xiaoyu Shi, Mingsheng Shang &nbsp; </li>
+<i> 
+``Adaptive Moving Average Q-learning.&#39;&#39; 
+</i><br> 
+accepted to Knowledge and Information Systems (<strong>KAIS</strong>).   
+<p> </p>
+
+<li>Tao Tan, <strong>Hong Xie*</strong>, Yunni Xia, Xiaoyu Shi, Mingsheng Shang &nbsp; </li>
+<i> 
+``Asynchronous SGD with Stale Gradient Dynamic Adjustment for Deep Learning Training.&#39;&#39; 
+</i><br> 
+accepted to Information Sciences (<strong>INS</strong>)  
+. 
+<p> </p>
+
+<li>Xiaoyu Shi, Quanliang Liu, <strong>Hong Xie</strong>, Yanan Bai, Mingsheng Shang &nbsp; </li>
+<i> 
+``Maximum Entropy Policy for Long-term Fairness in Interactive Recommender Systems.&#39;&#39; 
+</i><br> 
+accepted to IEEE Transactions on Services Computing (<strong>TSC</strong>)  
+. 
+<p> </p>
 
 <li>Gengzhi Zhang, Liang Feng, Yu Wang, Min Li, <strong>Hong Xie</strong>, Kay Chen Tan &nbsp; </li>
 <i> 
