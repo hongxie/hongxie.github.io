@@ -99,6 +99,26 @@ International Joint Conference on Neural Networks (<strong>IJCNN</strong>),
 2024. 
 <p>  </p>
 
+<li>Luyue Xu, Liming Wang, <strong>Hong Xie*</strong>, Mingqiang Zhou</li>
+<i> 
+Contextual Bandit with Herding Effects: Algorithms and Recommendation Applications. 
+</i>
+<br> 
+21st Pacific Rim International Conference on Artificial Intelligence (<strong>PRICAI</strong>), 
+<!-- <span style="color:red"><strong>[CCF-A]</strong></span>, -->
+2024. 
+<p>  </p>
+
+<li>Yulin Cai, <strong>Hong Xie</strong>, Xiaoying Zhang, Kewei Chen, Xiaoyu Shi, Mingsheng Shang </li>
+<i> 
+Achieving Group Fairness under Erroneous Pseudo-Labels of Sensitive Attributes. 
+</i>
+<br> 
+21st Pacific Rim International Conference on Artificial Intelligence (<strong>PRICAI</strong>), 
+<!-- <span style="color:red"><strong>[CCF-A]</strong></span>, -->
+2024. 
+<p>  </p>
+
 <li>Xiaoying Zhang, Junpu Chen, Hongning Wang, <strong>Hong Xie</strong>, Yang Liu, John C.S. Lui, Hang Li </li>
 <i> 
 Uncertainty-Aware Instance Reweighting for Off-Policy Learning. 
@@ -592,6 +612,13 @@ pp. 19:1--19:12, 2014.
 <p class="style6"> <strong>Journals:</strong></p>
 <ol reversed>
 
+<li>Haoran Gu, Shiyuan Zheng, Xudong Liu, <strong>Hong Xie*</strong>, John C.S. Lui &nbsp; </li>
+<i> 
+`` Online Incentive Protocol Design for Reposting Service in Online Social Networks.&#39;&#39; 
+</i><br> 
+accepted to ACM Transactions on the Web (<strong>TWEB</strong>).   
+<p> </p>
+
 <li>Tao Tan, <strong>Hong Xie*</strong>, Xiaoyu Shi, Mingsheng Shang &nbsp; </li>
 <i> 
 ``A Meta-learning Approach to Mitigating the Estimation Bias of Q-learning.&#39;&#39; 
@@ -942,7 +969,7 @@ ACM Transactions on Internet Technology (<strong>TOIT</strong>), vol. 19(4), 201
 ``Multi-Objective Workflow Scheduling With Deep-Q-Network-Based Multi-Agent Reinforcement Learning.&#39;&#39; 
 </a>
 </i><br> 
-IEEE Access 7: 39974-39982 (2019).
+IEEE Access, 7: 39974-39982, 2019.
 <p> </p>
 
 <li><strong>Hong Xie</strong>, John C.S. Lui. </li>
