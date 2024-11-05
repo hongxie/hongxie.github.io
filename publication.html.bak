@@ -20,19 +20,24 @@
 </SCRIPT> 
  
  
+
+<style> 
+ol.custom-margin { margin-left: 40px; } 
+</style>
+ 
  
 </head> 
 
  
-
+<body>
 
 <h2>Selected publications:
 </h2>
 
 
 
+<ol reversed, class="custom-margin">
 
-<ol reversed>
 <!--Conference papers -->
 <!--Conference papers -->
 <h3> <p class="style6"><strong>Conference Papers (*corresponding author):</strong></p>
@@ -612,7 +617,10 @@ pp. 19:1--19:12, 2014.
 <!--Journal papers -->
 <!--Journal papers -->
 
+<h3> 
 <p class="style6"> <strong>Journal papers:</strong></p>
+</h3> 
+ 
 
 <li>Ruimeng Li, Yuanhao Pu, Zhaoyi Li, Chenwang Wu, <strong>Hong Xie*</strong>, Defu Lian &nbsp; </li>
 <i> 
@@ -1113,8 +1121,8 @@ of incentive mechanism and rating system.&#39;&#39;&nbsp;
 </i><br> 
 SIGMETRICS <strong>Performance Evaluation Review</strong>, 
 vol. 42, no. 2, pp. 52-54, 2014. <br>
-</ol>
 
+ 
 
 <p class="style6"><strong> Thesis:</strong></p>
 <ul>
@@ -1125,5 +1133,7 @@ Ph.D. thesis, 2015</li>
 </ul>
 
 </body> 
+ 
+</ol> 
  
 </html> 
