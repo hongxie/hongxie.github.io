@@ -84,6 +84,7 @@ hosted by
 <a href="https://www.comp.nus.edu.sg/~tbma/"> Prof. Richard T.B. Ma </a>.  
 He was also a faculty member at Chongqing University.  
 He is a member of CCF, a member of IEEE and a member of ACM. 
+His personal interests include table tennis, badminton, basketball, etc.   
 
 
 
@@ -91,13 +92,15 @@ He is a member of CCF, a member of IEEE and a member of ACM.
 <hr>
 
 
-<h2>Research</h2>
+<h2>Research Interests</h2>
 <ul>
 
-<li> <strong>Research interests:</strong>  
-Context aware online learning including contextual bandits and contextual reinforcement learning, 
-with a special focus on the large scale setting.    
+<li> Bandits and reinforcement learning, 
+with a special focus on the large scale setting.     
 </i>   
+
+<li> LLM, with a special focus on in-context learning and reasoning. 
+</i>  
 
 </ul>
 
@@ -115,6 +118,16 @@ Federated Contextual Cascading Bandits with Asynchronous Communication and Heter
 </i>
 <br> 
 Thirty-Eighth AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 
+<!-- <span style="color:red"><strong>[CCF-A]</strong></span>, -->
+2024. 
+<p>  </p>
+
+<li>Zhaoyi Li, Gangwei Jiang, <strong>Hong Xie</strong>, Linqi Song, Defu Lian, Ying Wei </li>
+<i> 
+Understanding and Patching Compositional Reasoning in LLMs. 
+</i>
+<br> 
+The 62nd Annual Meeting of the Association for Computational Linguistics (<strong>ACL Findings</strong>), 
 <!-- <span style="color:red"><strong>[CCF-A]</strong></span>, -->
 2024. 
 <p>  </p>
@@ -257,7 +270,7 @@ IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>)
 <li class="style7">Elsevier Performance Evaluation Journal</li>
 <li class="style7">ACM Transactions on Modeling and Performance Evaluation of Computing Systems</li>
 </ul>
- 
+ <hr>
  <!--
 <hr>
 <h2>Graduated Students </h2>
