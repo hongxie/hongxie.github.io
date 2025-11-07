@@ -74,6 +74,16 @@ ACM Multimedia (<strong>MM</strong>),
 <p>  </p>
 
 
+<li>Hanyang Li, <strong>Hong Xie</strong>, Defu Lian</li>
+<i> 
+Multi-play Multi-armed Bandits with Shareable Arm Capacities Revisited: Settling Scarce Capacity. 
+</i>
+<br> 
+The 17th Asian Conference on Machine Learning (<strong>ACML</strong>), 
+<!-- <span style="color:red"><strong>[CCF-A]</strong></span>, -->
+2025. 
+<p>  </p>
+
 <li>Hantao Yang, Xutong Liu, Zhiyong Wang, <strong>Hong Xie</strong>, John C.S. Lui, Defu Lian, Enhong Chen </li>
 <i> 
 Federated Contextual Cascading Bandits with Asynchronous Communication and Heterogeneous Users. 
@@ -653,12 +663,26 @@ pp. 19:1--19:12, 2014.
 </h3> 
 
 
+<li>Pinghui Wang, Haoxin Yang, Dongxu Zeng, <strong>Hong Xie</strong>, Junzhou Zhao, Xiaohong Guan . &nbsp; </li>
+<i> 
+`` MPC-FH: Privately Estimating Frequency Histogram for Advertising Measurement.&#39;&#39; 
+</i><br> 
+accepted to IEEE Transactions on Dependable and Secure Computing (<strong>TDSC</strong>).   
+<p> </p>
+
+<li>Yan Wang, <strong>Hong Xie</strong>, Jinyang He, Xiaoyu Shi, Mingsheng Shang. &nbsp; </li>
+<i> 
+`` Beyond Trade-offs: Leveraging Spatiotemporal Heterogeneity of User Preference for Long-term Fairness and Accuracy in Interactive Recommendation.&#39;&#39; 
+</i><br> 
+accepted to ACM Transactions on the Web (<strong>TWEB</strong>).   
+<p> </p>
+
 
 <li>Yan Wang, <strong>Hong Xie</strong>, Jinyang He, Xiaoyu Shi, Mingsheng Shang. &nbsp; </li>
 <i> 
 `` Cross-Domain Semantic Transfer for Domain Generalization.&#39;&#39; 
 </i><br> 
-accepted to ACM Transactions on Multimedia Computing, Communications and Applications (<strong>ToMM</strong>).   
+accepted to ACM Transactions on Multimedia Computing, Communications and Applications (<strong>TOMM</strong>).   
 <p> </p>
 
 
