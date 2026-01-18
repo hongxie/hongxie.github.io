@@ -41,10 +41,32 @@ ol.custom-margin { margin-left: 40px; }
 <!--Conference papers -->
 <h3> <p class="style6"><strong>Conference Papers (*corresponding author):</strong></p>
 </h3>
-Multiple-play Stochastic Bandits with Prioritized Arm Capacity Sharing. 
+
+<li>
+Jinyang He, <strong>Hong Xie</strong>, Xiaoyu Shi, Yan Wang, Mingsheng Shang 
+<i> 
+ORSC: Object-aware Reinforcement with Semantic Consistency for Hallucinatoin Matigation in MLLMs. 
+</i>
+<br> 
+IEEE International Conference on Acoustics, Speech, and Signal Processing (<strong> ICASSP</strong>)), 
+<!-- <span style="color:red"><strong>[CCF-A]</strong></span>, -->
+2026. 
+<p>  </p>
+
+<li>
+Jinyang He, <strong>Hong Xie</strong>, Xiaoyu Shi, Yan Wang, Mingsheng Shang 
+<i> 
+Dynamic Attention-aware Shaping for Out-of-distribution Detection. 
+</i>
+<br> 
+IEEE International Conference on Acoustics, Speech, and Signal Processing (<strong> ICASSP</strong>)), 
+<!-- <span style="color:red"><strong>[CCF-A]</strong></span>, -->
+2026. 
+<p>  </p>
+
 <li><strong>Hong Xie</strong>, Haoran Gu, Yanying Huang, Tao Tan, Defu Lian</li>
 <i> 
-
+Multiple-play Stochastic Bandits with Prioritized Arm Capacity Sharing. 
 </i>
 <br> 
 The 40th Annual AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 
