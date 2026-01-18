@@ -43,7 +43,7 @@ ol.custom-margin { margin-left: 40px; }
 </h3>
 
 <li>
-Jinyang He, <strong>Hong Xie</strong>, Xiaoyu Shi, Yan Wang, Mingsheng Shang 
+Jinyang He, Xiaoyu Shi, <strong>Hong Xie</strong>, Yan Wang, Mingsheng Shang 
 <i> 
 ORSC: Object-aware Reinforcement with Semantic Consistency for Hallucinatoin Matigation in MLLMs. 
 </i>
