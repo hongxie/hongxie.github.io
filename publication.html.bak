@@ -36,6 +36,9 @@ ol.custom-margin { margin-left: 40px; }
 <h2>Selected publications:
 </h2>
 
+<h3> <p class="style6"><strong>Working Papers (*corresponding author):</strong></p>
+</h3>
+
 
 <!--Conference papers -->
 <!--Conference papers -->
@@ -43,13 +46,13 @@ ol.custom-margin { margin-left: 40px; }
 </h3>
 
 <li>
-Cheng HE, Xu Huang, Gangwei Jiang, Zhaoyi Li, Defu Lian, <strong>Hong Xie</strong>, Enhong Chen, xijie liang, Zhengzengrong, Patrick Lee
+Cheng HE, Xu Huang, Gangwei Jiang, Zhaoyi Li, Defu Lian*, <strong>Hong Xie*</strong>, Enhong Chen, xijie liang, Zhengzengrong, Patrick Lee
 </li>
 <i> 
-ORSC: Object-aware Reinforcement with Semantic Consistency for Hallucinatoin Matigation in MLLMs. 
+GTM: A General Time-series Model for Enhanced Representation Learning of Time-Series Data. 
 </i>
 <br> 
-IEEE International Conference on Acoustics, Speech, and Signal Processing (<strong> ICASSP</strong>), 
+The Fourteenth International Conference on Learning Representations (<strong> ICLR </strong>), 
 <!-- <span style="color:red"><strong>[CCF-A]</strong></span>, -->
 2026. 
 <p>  </p>
