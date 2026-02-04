@@ -116,7 +116,7 @@ Preprint,
 </h3>
 
 <li>
-Cheng HE, Xu Huang, Gangwei Jiang, Zhaoyi Li, Defu Lian*, <strong>Hong Xie*</strong>, Enhong Chen, xijie liang, Zhengzengrong, Patrick Lee
+Cheng He， Xu Huang, Gangwei Jiang, Zhaoyi Li, Defu Lian*, <strong>Hong Xie*</strong>, Enhong Chen, Xijie Liang, Zhengzengrong, Patrick Lee
 </li>
 <i> 
 GTM: A General Time-series Model for Enhanced Representation Learning of Time-Series Data. 
@@ -172,7 +172,9 @@ The 40th Annual AAAI Conference on Artificial Intelligence (<strong>AAAI</strong
 
 <li>Hongyi Xie, Min Zhou*, Qiao Yu, jialiang Yu, Zhenli sheng, <strong>Hong Xie*</strong>, Defu Lian</li>
 <i> 
-M2-MFP: A Multi-Scale and Multi-Level Memory Failure Prediction Framework for ReliableCloud Infrastructure. 
+<a href="https://dl.acm.org/doi/10.1145/3711896.3737243">
+M2-MFP: A Multi-Scale and Multi-Level Memory Failure Prediction Framework for ReliableCloud Infrastructure
+</a> 
 </i>
 <br> 
 Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD</strong>), 
@@ -183,7 +185,9 @@ applied data science track, <strong>Artifact Badge Award</strong>,
 
 <li>Weidong Wu, Qinlin Zhao, Hao Chen, Lexin Zhou, Defu Lian, <strong>Hong Xie</strong></li>
 <i> 
-Exploring the Choice Behavior of Large Language Models. 
+<a href="https://aclanthology.org/2025.findings-acl.270/">
+Exploring the Choice Behavior of Large Language Models
+</a>
 </i>
 <br> 
 The 62nd Annual Meeting of the Association for Computational Linguistics (<strong>ACL Findings</strong>), 
@@ -193,7 +197,9 @@ The 62nd Annual Meeting of the Association for Computational Linguistics (<stron
 
 <li>Mianzimei Yang, Zhipeng Zhou, Jin Zhang, Yuanhao Pu, <strong>Hong Xie</strong>, Defu Lian</li>
 <i> 
-Conflict-Buffering Optimization by Symmetry Teleportation for Deep Long-Tailed Recognition. 
+<a href="https://dl.acm.org/doi/10.1145/3746027.3755153">
+Conflict-Buffering Optimization by Symmetry Teleportation for Deep Long-Tailed Recognition
+</a>
 </i>
 <br> 
 ACM Multimedia (<strong>MM</strong>), 
@@ -204,7 +210,9 @@ ACM Multimedia (<strong>MM</strong>),
 
 <li>Hanyang Li, <strong>Hong Xie</strong>, Defu Lian</li>
 <i> 
-Multi-play Multi-armed Bandits with Shareable Arm Capacities Revisited: Settling Scarce Capacity. 
+<a href="https://openreview.net/forum?id=SUqDrU1v24&referrer=%5Bthe%20profile%20of%20Defu%20Lian%5D(%2Fprofile%3Fid%3D~Defu_Lian1)">
+Multi-play Multi-armed Bandits with Shareable Arm Capacities Revisited: Settling Scarce Capacity
+</a>
 </i>
 <br> 
 The 17th Asian Conference on Machine Learning (<strong>ACML</strong>), 
@@ -214,7 +222,9 @@ The 17th Asian Conference on Machine Learning (<strong>ACML</strong>),
 
 <li>Hantao Yang, Xutong Liu, Zhiyong Wang, <strong>Hong Xie</strong>, John C.S. Lui, Defu Lian, Enhong Chen </li>
 <i> 
-Federated Contextual Cascading Bandits with Asynchronous Communication and Heterogeneous Users. 
+<a href="https://dl.acm.org/doi/10.1609/aaai.v38i18.30045">
+Federated Contextual Cascading Bandits with Asynchronous Communication and Heterogeneous Users
+</a>
 </i>
 <br> 
 Thirty-Eighth AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 
@@ -224,7 +234,9 @@ Thirty-Eighth AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>)
 
 <li>Tao Tan, <strong>Hong Xie*</strong>, Defu Lian</li>
 <i> 
-Adaptive Order Q-learning. 
+<a href="https://www.ijcai.org/proceedings/2024/547">
+Adaptive Order Q-learning
+</a>
 </i>
 <br> 
 International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 
@@ -235,7 +247,9 @@ International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong
 
 <li>Zhaoyi Li, Gangwei Jiang, <strong>Hong Xie</strong>, Linqi Song, Defu Lian, Ying Wei </li>
 <i> 
-Understanding and Patching Compositional Reasoning in LLMs. 
+<a href="https://aclanthology.org/2024.findings-acl.576/">
+Understanding and Patching Compositional Reasoning in LLMs
+</a>  
 </i>
 <br> 
 The 62nd Annual Meeting of the Association for Computational Linguistics (<strong>ACL Findings</strong>), 
@@ -245,7 +259,9 @@ The 62nd Annual Meeting of the Association for Computational Linguistics (<stron
 
 <li>Chongjun Xia, Xiaoyu Shi, <strong>Hong Xie</strong>, Quanliang Liu and Mingsheng Shang</li>
 <i> 
-Investigating User Popularity Preference Differences for Long-term Fairness on Interactive Recommendation: A Hierarchical Reinforcement Learning Approach. 
+<a href="https://ieeexplore.ieee.org/abstract/document/10707441">
+Investigating User Popularity Preference Differences for Long-term Fairness on Interactive Recommendation: A Hierarchical Reinforcement Learning Approach
+</a> 
 </i>
 <br> 
 IEEE
@@ -257,7 +273,9 @@ International Conference on Web Services (<strong>ICWS</strong>),
 
 <li>Liguo Chen, Zhigang Gong, <strong>Hong Xie*</strong>, Mingqiang Zhou</li>
 <i> 
-False Negative Sample Aware Negative Sampling for Recommendation. 
+<a href="https://link.springer.com/chapter/10.1007/978-981-97-2262-4_16">
+False Negative Sample Aware Negative Sampling for Recommendation
+</a> 
 </i>
 <br> 
 Pacific-Asia Conference on Knowledge Discovery and Data Mining (<strong>PAKDD</strong>), 
@@ -267,7 +285,9 @@ Pacific-Asia Conference on Knowledge Discovery and Data Mining (<strong>PAKDD</s
 
 <li>Yanying Huang, Haoran Gu, <strong>Hong Xie*</strong>, Mingqiang Zhou</li>
 <i> 
-A Thompson Sampling Approach to User-Centric Selection Problems. 
+<a href="https://ieeexplore.ieee.org/document/10651201">
+A Thompson Sampling Approach to User-Centric Selection Problems
+</a>
 </i>
 <br> 
 International Joint Conference on Neural Networks (<strong>IJCNN</strong>), 
@@ -277,7 +297,9 @@ International Joint Conference on Neural Networks (<strong>IJCNN</strong>),
 
 <li>Luyue Xu, Liming Wang, <strong>Hong Xie*</strong>, Mingqiang Zhou</li>
 <i> 
-Contextual Bandit with Herding Effects: Algorithms and Recommendation Applications. 
+<a href="https://link.springer.com/chapter/10.1007/978-981-96-0128-8_12">
+Contextual Bandit with Herding Effects: Algorithms and Recommendation Applications
+</a>
 </i>
 <br> 
 21st Pacific Rim International Conference on Artificial Intelligence (<strong>PRICAI</strong>), 
@@ -287,7 +309,9 @@ Contextual Bandit with Herding Effects: Algorithms and Recommendation Applicatio
 
 <li>Yulin Cai, <strong>Hong Xie</strong>, Xiaoying Zhang, Kewei Chen, Xiaoyu Shi, Mingsheng Shang </li>
 <i> 
-Achieving Group Fairness under Erroneous Pseudo-Labels of Sensitive Attributes. 
+<a href="https://link.springer.com/chapter/10.1007/978-981-96-6966-0_7">
+Achieving Group Fairness under Erroneous Pseudo-Labels of Sensitive Attributes  
+</a>
 </i>
 <br> 
 31st International Conference on Neural Information Processing (<strong>ICONIP</strong>), 
@@ -297,7 +321,9 @@ Achieving Group Fairness under Erroneous Pseudo-Labels of Sensitive Attributes.
 
 <li>Xiaoying Zhang, Junpu Chen, Hongning Wang, <strong>Hong Xie</strong>, Yang Liu, John C.S. Lui, Hang Li </li>
 <i> 
-Uncertainty-Aware Instance Reweighting for Off-Policy Learning. 
+<a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/e97ac22927560eb2de6b658498cbc575-Abstract-Conference.html">
+Uncertainty-Aware Instance Reweighting for Off-Policy Learning   
+</a>
 </i>
 <br> 
 Thirty-seventh Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 
@@ -308,7 +334,9 @@ Thirty-seventh Conference on Neural Information Processing Systems (<strong>Neur
 
 <li>Xiaoyu Shi, Quanliang Liu, <strong>Hong Xie*</strong>, Mingsheng Shang. </li>
 <i> 
-Towards Long-term Fairness in Interactive Recommendation: A Maximum Entropy Reinforcement Learning Approach 
+<a href="https://ieeexplore.ieee.org/document/10248263">
+Towards Long-term Fairness in Interactive Recommendation: A Maximum Entropy Reinforcement Learning Approach   
+</a>  
 </i>
 <br> 
 IEEE International Conference on Web Services  (<strong>ICWS</strong>), short paper, 2023. 
@@ -316,7 +344,9 @@ IEEE International Conference on Web Services  (<strong>ICWS</strong>), short pa
 
 <li>Jinyu Mo, <strong>Hong Xie*</strong>, Xiaoyu Shi, Mingsheng Shang. </li>
 <i> 
-CGCCMR: An Enhanced Multi-gate Model for Cross-Market Recommendation   
+<a href="https://ieeexplore.ieee.org/document/10191951">
+CGCCMR: An Enhanced Multi-gate Model for Cross-Market Recommendation    
+</a>    
 </i>
 <br> 
 International Joint Conference on Neural Networks  (<strong>IJCNN</strong>), 2023. 
@@ -324,7 +354,9 @@ International Joint Conference on Neural Networks  (<strong>IJCNN</strong>), 202
 
 <li>Jinyu Mo, <strong>Hong Xie*</strong>. </li>
 <i> 
-A Multi-player MAB Approach for Distributed Selection Problems   
+<a href="https://dl.acm.org/doi/10.1007/978-3-031-33377-4_19">
+A Multi-player MAB Approach for Distributed Selection Problems     
+</a>   
 </i>
 <br> 
 The 26th Pacific-Asia Conference on Knowledge Discovery and Data Mining (<strong>PAKDD</strong>), 2023. 
@@ -334,7 +366,9 @@ The 26th Pacific-Asia Conference on Knowledge Discovery and Data Mining (<strong
 
 <li>Hanxuan Xu, <strong>Hong Xie*</strong>. </li>
 <i> 
-A Thompson Sampling Approach to Unifying Causal Inference and Bandit Learning  
+<a href="https://link.springer.com/chapter/10.1007/978-3-031-33377-4_20">
+A Thompson Sampling Approach to Unifying Causal Inference and Bandit Learning      
+</a>
 </i>
 <br> 
 The 26th Pacific-Asia Conference on Knowledge Discovery and Data Mining (<strong>PAKDD</strong>), 2023. 
@@ -345,7 +379,9 @@ The 26th Pacific-Asia Conference on Knowledge Discovery and Data Mining (<strong
 
 <li>Liming Wang, <strong>Hong Xie*</strong>, Ye Li, Jian Tan, John C.S. Lui. </li>
 <i> 
+<a href="https://dl.acm.org/doi/10.1145/3543507.3583456">
 Interactive Log Parsing via Light-weight Feedback    
+</a>
 </i>
 <br> 
 The Web Conference (<strong>WWW</strong>) 
@@ -357,7 +393,9 @@ The Web Conference (<strong>WWW</strong>)
 
 <li>Zhi Qi, <strong>Hong Xie*</strong>, Mingsheng Shang. </li>
 <i> 
+<a href="https://link.springer.com/chapter/10.1007/978-3-031-30637-2_13  ">
 A Predictive Coding Approach to Multivariate Time Series Anomaly Detection   
+</a> 
 </i>
 <br> 
 The 28th International Conference on Database Systems for Advanced Applications (<strong>DASFAA</strong>), 2023. 
@@ -367,7 +405,9 @@ The 28th International Conference on Database Systems for Advanced Applications 
 
 <li>Xutong Liu, Jinhang Zuo, <strong>Hong Xie*</strong>, C.J. Wong, John C.S. Lui. </li>
 <i> 
-Variance-Adaptive Algorithm for Probabilistic Maximum Coverage Bandits with General Feedback    
+<a href="https://ieeexplore.ieee.org/document/10228940">
+Variance-Adaptive Algorithm for Probabilistic Maximum Coverage Bandits with General Feedback.    
+</a>  
 </i>
 <br> 
 IEEE International Conference on Computer Communications (<strong>INFOCOM</strong>)
@@ -376,6 +416,7 @@ IEEE International Conference on Computer Communications (<strong>INFOCOM</stron
 <br> 
 (AR: 252/1312 = 19.2%) 
 <p>  </p>
+
 
 <li>Shiyuan Zheng, Xudong Liu, <strong>Hong Xie*</strong>, John C.S. Lui. </li>
 <i> 
@@ -808,46 +849,58 @@ accepted to ACM Transactions on the Web (<strong>TWEB</strong>).
 
 <li>Yan Wang, <strong>Hong Xie</strong>, Jinyang He, Xiaoyu Shi, Mingsheng Shang. &nbsp; </li>
 <i> 
+<a href="https://ieeexplore.ieee.org/document/10821481">
 `` Cross-Domain Semantic Transfer for Domain Generalization.&#39;&#39; 
+</a>
 </i><br> 
-accepted to ACM Transactions on Multimedia Computing, Communications and Applications (<strong>TOMM</strong>).   
+ACM Transactions on Multimedia Computing, Communications and Applications (<strong>TOMM</strong>), 21(5): 149:1-149:24 (2025).   
 <p> </p>
 
 
 <li>X.X. Dai, X.T. Liu, J.H. Zuo, <strong>Hong Xie</strong>, C. Joe-Wong, John C.S. Lui. &nbsp; </li>
 <i> 
-`` Variance-Aware Bandit Framework for Dynamic Probabilistic Maximum Coverage Problem with Triggered or Self-Reliant Arms.&#39;&#39; 
+<a href="https://ieeexplore.ieee.org/document/10821481">
+`` Variance-Aware Bandit Framework for Dynamic Probabilistic Maximum Coverage Problem with Triggered or Self-Reliant Arms.&#39;&#39;  
+</a>
 </i><br> 
-accepted to IEEE/ACM Transactions on Networking (<strong>ToN</strong>).   
+IEEE/ACM Transactions on Networking (<strong>ToN</strong>), 33(3): 982-993 (2025).   
 <p> </p>
 
 
 <li>Ruimeng Li, Yuanhao Pu, Zhaoyi Li, Chenwang Wu, <strong>Hong Xie*</strong>, Defu Lian &nbsp; </li>
 <i> 
+<a href="https://link.springer.com/article/10.1007/s10994-024-06730-9">
 `` Invariant Representation Learning via Decoupling Style and Spurious Features.&#39;&#39; 
+</a>
 </i><br> 
-accepted to Machine Learning Journal (<strong>MLJ</strong>).   
+Machine Learning Journal (<strong>MLJ</strong>), 114(2): 37 (2025).   
 <p> </p>
 
 <li>Haoran Gu, Shiyuan Zheng, Xudong Liu, <strong>Hong Xie*</strong>, John C.S. Lui &nbsp; </li>
 <i> 
+<a href="https://dl.acm.org/doi/full/10.1145/3696473">
 `` Online Incentive Protocol Design for Reposting Service in Online Social Networks.&#39;&#39; 
+</a>
 </i><br> 
-accepted to ACM Transactions on the Web (<strong>TWEB</strong>).   
+ACM Transactions on the Web (<strong>TWEB</strong>), 19(2): 20:1-20:30 (2025).   
 <p> </p>
 
 <li>Tao Tan, <strong>Hong Xie*</strong>, Xiaoyu Shi, Mingsheng Shang &nbsp; </li>
 <i> 
+<a href="https://dl.acm.org/doi/full/10.1145/3688849">
 ``A Meta-learning Approach to Mitigating the Estimation Bias of Q-learning.&#39;&#39; 
+</a>
 </i><br> 
-accepted to ACM Transactions on Knowledge Discovery from Data (<strong>TKDD</strong>).   
+ACM Transactions on Knowledge Discovery from Data (<strong>TKDD</strong>), 18(9): 226:1-226:23 (2024).   
 <p> </p>
 
 <li>Tao Tan, <strong>Hong Xie*</strong>, Yunni Xia, Xiaoyu Shi, Mingsheng Shang &nbsp; </li>
 <i> 
+<a href="https://link.springer.com/article/10.1007/s10115-024-02190-8">
 ``Adaptive Moving Average Q-learning.&#39;&#39; 
+</a>
 </i><br> 
-accepted to Knowledge and Information Systems (<strong>KAIS</strong>).   
+Knowledge and Information Systems (<strong>KAIS</strong>), 66(12): 7389-7417 (2024).   
 <p> </p>
 
 
