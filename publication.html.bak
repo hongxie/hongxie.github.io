@@ -43,12 +43,25 @@ ol.custom-margin { margin-left: 40px; }
 </h3>
 
 <li>
+Cheng HE, Xu Huang, Gangwei Jiang, Zhaoyi Li, Defu Lian, <strong>Hong Xie</strong>, Enhong Chen, xijie liang, Zhengzengrong, Patrick Lee
+</li>
+<i> 
+ORSC: Object-aware Reinforcement with Semantic Consistency for Hallucinatoin Matigation in MLLMs. 
+</i>
+<br> 
+IEEE International Conference on Acoustics, Speech, and Signal Processing (<strong> ICASSP</strong>), 
+<!-- <span style="color:red"><strong>[CCF-A]</strong></span>, -->
+2026. 
+<p>  </p>
+
+
+<li>
 Jinyang He, Xiaoyu Shi, <strong>Hong Xie</strong>, Yan Wang, Mingsheng Shang </li>
 <i> 
 ORSC: Object-aware Reinforcement with Semantic Consistency for Hallucinatoin Matigation in MLLMs. 
 </i>
 <br> 
-IEEE International Conference on Acoustics, Speech, and Signal Processing (<strong> ICASSP</strong>)), 
+IEEE International Conference on Acoustics, Speech, and Signal Processing (<strong> ICASSP</strong>), 
 <!-- <span style="color:red"><strong>[CCF-A]</strong></span>, -->
 2026. 
 <p>  </p>
@@ -59,7 +72,7 @@ Jinyang He, <strong>Hong Xie</strong>, Xiaoyu Shi, Yan Wang, Mingsheng Shang </l
 Dynamic Attention-aware Shaping for Out-of-distribution Detection. 
 </i>
 <br> 
-IEEE International Conference on Acoustics, Speech, and Signal Processing (<strong> ICASSP</strong>)), 
+IEEE International Conference on Acoustics, Speech, and Signal Processing (<strong> ICASSP</strong>), 
 <!-- <span style="color:red"><strong>[CCF-A]</strong></span>, -->
 2026. 
 <p>  </p>
