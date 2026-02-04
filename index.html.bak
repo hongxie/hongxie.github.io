@@ -108,23 +108,122 @@ with a special focus on the large scale setting.
 
 
 <hr>
-<h2>Recent Publications ( 
+<h2>Recent Works ( 
 <a href="https://hongxie.github.io/publication"> full list </a>)</h2>
 <ul>
 
-<li>Hantao Yang, Xutong Liu, Zhiyong Wang, <strong>Hong Xie</strong>, John C.S. Lui, Defu Lian, Enhong Chen </li>
+<li>
+Wei Yang, <strong>Hong Xie</strong>, Tao Tan, Xin Li, Defu Lian, Enhong Chen 
+</li>
 <i> 
-Federated Contextual Cascading Bandits with Asynchronous Communication and Heterogeneous Users. 
+<a href="https://arxiv.org/abs/2602.01346">
+Model Specific Task Similarity for Vision Language Model Selection via Layer Conductance.    
+</a>  
 </i>
 <br> 
-Thirty-Eighth AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 
+Preprint, 
 <!-- <span style="color:red"><strong>[CCF-A]</strong></span>, -->
-2024. 
+2026. 
+<p>  </p>
+
+<li>
+<strong>Hong Xie</strong>, Xiao Hu, Tao Tan, Haoran Gu, Xin Li, Jianyu Han, Defu Lian, Enhong Chen
+</li>
+<i> 
+<a href="https://arxiv.org/abs/2601.22532">
+Demystifying Design Choices of Reinforcement Fine-tuning: A Batched Contextual Bandit Learning Perspective.    
+</a>  
+</i>
+<br> 
+Preprint, 
+<!-- <span style="color:red"><strong>[CCF-A]</strong></span>, -->
+2026. 
+<p>  </p>
+
+<li>
+Xiao Hu, <strong>Hong Xie</strong>, Tao Tan, Defu Lian, Jianyu Han 
+</li>
+<i> 
+<a href="https://arxiv.org/abs/2601.14599">
+Rethinking Reinforcement Fine-tuning of LLMs: A Multi-armed Bandit Learning Perspective.    
+</a>  
+</i>
+<br> 
+Preprint, 
+<!-- <span style="color:red"><strong>[CCF-A]</strong></span>, -->
+2026. 
+<p>  </p>
+
+<li>
+Hantao Yang, <strong>Hong Xie</strong>, Defu Lian, Enhong Chen 
+</li>
+<i> 
+<a href="https://arxiv.org/abs/2509.15515">
+LLM Cache Bandit Revisited: Addressing Query Heterogeneity for Cost-Effective LLM Inference.    
+</a>  
+</i>
+<br> 
+Preprint, 
+<!-- <span style="color:red"><strong>[CCF-A]</strong></span>, -->
+2025. 
+<p>  </p>
+
+<li>
+Xu Huang, Yuefeng Huang, Weiwen Liu, Xingshan Zeng, Yasheng Wang, Ruiming Tang, <strong>Hong Xie</strong>, Defu Lian
+</li>
+<i> 
+<a href="https://arxiv.org/abs/2505.04072">
+Advancing and Benchmarking Personalized Tool Invocation for LLMs.    
+</a>  
+</i>
+<br> 
+Preprint, 
+<!-- <span style="color:red"><strong>[CCF-A]</strong></span>, -->
+2025. 
+<p>  </p>
+
+<li>
+Cheng He, Xu Huang, Gangwei Jiang, Zhaoyi Li, Defu Lian*, <strong>Hong Xie*</strong>, Enhong Chen, Xijie Liang, Zhengzengrong, Patrick Lee
+</li>
+<i> 
+GTM: A General Time-series Model for Enhanced Representation Learning of Time-Series Data. 
+</i>
+<br> 
+The Fourteenth International Conference on Learning Representations (<strong> ICLR </strong>), 
+<!-- <span style="color:red"><strong>[CCF-A]</strong></span>, -->
+2026. 
+<p>  </p>
+
+<li>Hongyi Xie, Min Zhou*, Qiao Yu, jialiang Yu, Zhenli sheng, <strong>Hong Xie*</strong>, Defu Lian</li>
+<i> 
+<a href="https://dl.acm.org/doi/10.1145/3711896.3737243">
+M2-MFP: A Multi-Scale and Multi-Level Memory Failure Prediction Framework for ReliableCloud Infrastructure
+</a> 
+</i>
+<br> 
+Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD</strong>), 
+applied data science track, <strong>Artifact Badge Award</strong>, 
+<!-- <span style="color:red"><strong>[CCF-A]</strong></span>, -->
+2025. 
+<p>  </p>
+
+<li>Weidong Wu, Qinlin Zhao, Hao Chen, Lexin Zhou, Defu Lian, <strong>Hong Xie</strong></li>
+<i> 
+<a href="https://aclanthology.org/2025.findings-acl.270/">
+Exploring the Choice Behavior of Large Language Models
+</a>
+</i>
+<br> 
+The 62nd Annual Meeting of the Association for Computational Linguistics (<strong>ACL Findings</strong>), 
+<!-- <span style="color:red"><strong>[CCF-A]</strong></span>, -->
+2025. 
 <p>  </p>
 
 <li>Zhaoyi Li, Gangwei Jiang, <strong>Hong Xie</strong>, Linqi Song, Defu Lian, Ying Wei </li>
 <i> 
-Understanding and Patching Compositional Reasoning in LLMs. 
+<a href="https://aclanthology.org/2024.findings-acl.576/">
+Understanding and Patching Compositional Reasoning in LLMs
+</a>  
 </i>
 <br> 
 The 62nd Annual Meeting of the Association for Computational Linguistics (<strong>ACL Findings</strong>), 
@@ -134,7 +233,9 @@ The 62nd Annual Meeting of the Association for Computational Linguistics (<stron
 
 <li>Xiaoying Zhang, Junpu Chen, Hongning Wang, <strong>Hong Xie</strong>, Yang Liu, John C.S. Lui, Hang Li </li>
 <i> 
-Uncertainty-Aware Instance Reweighting for Off-Policy Learning. 
+<a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/e97ac22927560eb2de6b658498cbc575-Abstract-Conference.html">
+Uncertainty-Aware Instance Reweighting for Off-Policy Learning   
+</a>
 </i>
 <br> 
 Thirty-seventh Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 
@@ -142,24 +243,18 @@ Thirty-seventh Conference on Neural Information Processing Systems (<strong>Neur
 2023. 
 <p>  </p>
 
+
 <li>Liming Wang, <strong>Hong Xie*</strong>, Ye Li, Jian Tan, John C.S. Lui. </li>
 <i> 
+<a href="https://dl.acm.org/doi/10.1145/3543507.3583456">
 Interactive Log Parsing via Light-weight Feedback    
+</a>
 </i>
 <br> 
-The Web Conference (<strong>WWW</strong>)  
+The Web Conference (<strong>WWW</strong>) 
+<!--<span style="color:red"><strong>[CCF-A]</strong></span> -->
 , 2023. 
-<p>  </p>
-
-<li>Xuchuang Wang, <strong>Hong Xie*</strong>, John C.S. Lui. </li>
-<i>
-<a href="https://proceedings.mlr.press/v162/wang22af.html">
-Multiple-Play Stochastic Bandits with Shareable Finite-Capacity Arms.    
-</a> 
-</i>
-<br> 
-The 39th International Conference on Machine Learning (<strong>ICML</strong>) 
-, 2022. 
+<br>  
 <p>  </p>
 
 <li>Mingze Zhong, <strong>Hong Xie*</strong>, Qingsheng Zhu. </li>
@@ -188,9 +283,13 @@ International Conference on Computer Communication (<strong>INFOCOM</strong>)
 
 <li><strong>Hong Xie</strong>, Mingze Zhong, Xiaoyu Shi, Xiaoying Zhang, Jiang Zhong, Mingsheng Shang&nbsp; </li>
 <i> 
+<a href="https://ieeexplore.ieee.org/document/10173606">
 ``Probabilistic Modeling of Assimilate-ContrastEffects in Online Rating Systems.&#39;&#39; 
+</a>
 </i><br> 
-accepted to IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>)  
+IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>), 
+36(2): 795-808, 2024 
+<!--<span style="color:red"><strong>[CCF-A]</strong></span>-->
 . 
 <p> </p>
  
@@ -251,10 +350,10 @@ IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>)
 <h2> Professional Services</h2>
 <strong>Technical programm committee members:</strong>
 <ul>
-<li class="style7">2025: AAAI(TPC), AISTATS(TPC), WWW(TPC), ICLR(Rev.), KDD(Rev.)</li>
+<li class="style7">2025: AAAI(TPC), IJCAI(TPC), AISTATS(TPC), ICML(TPC), ICLR(Rev.), KDD(Rev., Excellent reviewer)</li>
 <li class="style7">2024: AAAI(TPC), IJCAI(TPC), AISTATS(TPC), ICML(TPC), NeurIPS(TPC), ICLR(REV), WWW(Rev.), KDD(Rev.)</li>
 <li class="style7">2023: AAAI(TPC), IJCAI(TPC), AISTATS(TPC), ICML(TPC), NeurIPS(TPC), ECML-PKDD(TPC)</li>
-<li class="style7">2022: AAAI(TPC), IJCAI(TPC), AISTATS(REV), ICML(TPC), NeurIPS(TPC) </li>
+<li class="style7">2022: AAAI(TPC), IJCAI(TPC), AISTATS(REV), ICML(TPC), NeurIPS(TPC, top reviewer) </li>
 <li class="style7">2021: AAAI(TPC)</li>
 <li class="style7">2019: IEEE ASONAM (IT TPC) </li>
 <li class="style7">2018: IEEE ASONAM (IT TPC)</li> 
