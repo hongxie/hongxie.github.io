@@ -39,6 +39,76 @@ ol.custom-margin { margin-left: 40px; }
 <h3> <p class="style6"><strong>Working Papers (*corresponding author):</strong></p>
 </h3>
 
+<li>
+Wei Yang, <strong>Hong Xie</strong>, Tao Tan, Xin Li, Defu Lian, Enhong Chen 
+</li>
+<i> 
+<a href="https://arxiv.org/abs/2602.01346">
+Model Specific Task Similarity for Vision Language Model Selection via Layer Conductance.    
+</a>  
+</i>
+<br> 
+Preprint, 
+<!-- <span style="color:red"><strong>[CCF-A]</strong></span>, -->
+2026. 
+<p>  </p>
+
+<li>
+<strong>Hong Xie</strong>, Xiao Hu, Tao Tan, Haoran Gu, Xin Li, Jianyu Han, Defu Lian, Enhong Chen
+</li>
+<i> 
+<a href="https://arxiv.org/abs/2601.22532">
+Demystifying Design Choices of Reinforcement Fine-tuning: A Batched Contextual Bandit Learning Perspective.    
+</a>  
+</i>
+<br> 
+Preprint, 
+<!-- <span style="color:red"><strong>[CCF-A]</strong></span>, -->
+2026. 
+<p>  </p>
+
+<li>
+Xiao Hu, <strong>Hong Xie</strong>, Tao Tan, Defu Lian, Jianyu Han 
+</li>
+<i> 
+<a href="https://arxiv.org/abs/2601.14599">
+Rethinking Reinforcement Fine-tuning of LLMs: A Multi-armed Bandit Learning Perspective.    
+</a>  
+</i>
+<br> 
+Preprint, 
+<!-- <span style="color:red"><strong>[CCF-A]</strong></span>, -->
+2026. 
+<p>  </p>
+
+<li>
+Hantao Yang, <strong>Hong Xie</strong>, Defu Lian, Enhong Chen 
+</li>
+<i> 
+<a href="https://arxiv.org/abs/2509.15515">
+LLM Cache Bandit Revisited: Addressing Query Heterogeneity for Cost-Effective LLM Inference.    
+</a>  
+</i>
+<br> 
+Preprint, 
+<!-- <span style="color:red"><strong>[CCF-A]</strong></span>, -->
+2026. 
+<p>  </p>
+
+<li>
+Xu Huang, Yuefeng Huang, Weiwen Liu, Xingshan Zeng, Yasheng Wang, Ruiming Tang, <strong>Hong Xie</strong>, Defu Lian
+</li>
+<i> 
+<a href="https://arxiv.org/abs/2505.04072">
+Advancing and Benchmarking Personalized Tool Invocation for LLMs.    
+</a>  
+</i>
+<br> 
+Preprint, 
+<!-- <span style="color:red"><strong>[CCF-A]</strong></span>, -->
+2025. 
+<p>  </p>
+
 
 <!--Conference papers -->
 <!--Conference papers -->
