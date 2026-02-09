@@ -40,6 +40,21 @@ ol.custom-margin { margin-left: 40px; }
 </h3>
 
 <li>
+Wei Yang, Zihao Liu, Tao Tan, Xiao Hu, <strong>Hong Xie*</strong>, Lulu Li*, 
+Xin Li, Jianyu Han, Defu Lian, Mao Ye 
+</li>
+<i> 
+<a href="to be submitted">
+Model Specific Task Similarity for Vision Language Model Selection via Layer Conductance.    
+</a>  
+</i>
+<br> 
+Preprint, 
+<!-- <span style="color:red"><strong>[CCF-A]</strong></span>, -->
+2026. 
+<p>  </p>
+
+<li>
 Wei Yang, <strong>Hong Xie</strong>, Tao Tan, Xin Li, Defu Lian, Enhong Chen 
 </li>
 <i> 
@@ -116,7 +131,7 @@ Preprint,
 </h3>
 
 <li>
-Cheng He， Xu Huang, Gangwei Jiang, Zhaoyi Li, Defu Lian*, <strong>Hong Xie*</strong>, Enhong Chen, Xijie Liang, Zhengzengrong, Patrick Lee
+Cheng He, Xu Huang, Gangwei Jiang, Zhaoyi Li, Defu Lian*, <strong>Hong Xie*</strong>, Enhong Chen, Xijie Liang, Zhengzengrong, Patrick Lee
 </li>
 <i> 
 GTM: A General Time-series Model for Enhanced Representation Learning of Time-Series Data. 
