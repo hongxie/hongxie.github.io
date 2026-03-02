@@ -105,19 +105,24 @@ with a special focus on the large scale setting.
 </ul>
 
   
-
-
+<hr>
+<h2>
+<font color="red">
+We are now seeking Ph.D. students, master students and undergraduate interns. 
+We have Ph.D. openings and master openings for 2026 fall batch.    	
+</font>
+</h2>
 <hr>
 <h2>Recent Works ( 
 <a href="https://hongxie.github.io/publication"> full list </a>)</h2>
 <ul>
 
-li>
+<li>
 Wei Yang, Zihao Liu, Tao Tan, Xiao Hu, <strong>Hong Xie*</strong>, Lulu Li*, 
 Xin Li, Jianyu Han, Defu Lian, Mao Ye 
 </li>
 <i> 
-<a href="to be submitted">
+<a href="https://arxiv.org/abs/2602.18479">
 AgentCAT: An LLM Agent for Extracting and Analyzing Catalytic Reaction Data from Chemical Engineering Literature.    
 </a>  
 </i>
