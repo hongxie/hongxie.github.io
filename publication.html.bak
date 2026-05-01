@@ -130,6 +130,20 @@ Preprint,
 <h3> <p class="style6"><strong>Conference Papers (*corresponding author):</strong></p>
 </h3>
 
+
+<li>
+Haoran Jin, Xiting Wang*, Shijie Ren, <strong>Hong Xie*</strong>, Defu Lian
+</li>
+<i> 
+GTM: A General Time-series Model for Enhanced Representation Learning of Time-Series Data. 
+</i>
+<br> 
+The Fourteenth International Conference on Learning Representations (<strong> ICLR </strong>), 
+<!-- <span style="color:red"><strong>[CCF-A]</strong></span>, -->
+2026. 
+<p>  </p>
+
+
 <li>
 Cheng He, Xu Huang, Gangwei Jiang, Zhaoyi Li, Defu Lian*, <strong>Hong Xie*</strong>, Enhong Chen, Xijie Liang, Zhengzengrong, Patrick Lee
 </li>
@@ -849,9 +863,9 @@ pp. 19:1--19:12, 2014.
 
 <li>Jin Zhang,  Defu Lian, <strong>Hong Xie</strong>, Yawen Li, Enhong Chen. &nbsp; </li>
 <i> 
-`` DEL4CW: Deep Expansion Learning for Cloud Workloads Prediction.&#39;&#39; 
+``  Interactive Graph Convolutional Filtering.&#39;&#39; 
 </i><br> 
-accepted to ACM Transactions on Knowledge Discovery from Data (<strong>TKDD</strong>).   
+accepted to Artificial Intelligence (<strong>AIJ</strong>).   
 <p> </p>
 
 <li>Xiaoyu Shi, Qiuyue Lv, Bingchao Wang, <strong>Hong Xie</strong>, Mingsheng Shang. &nbsp; </li>
