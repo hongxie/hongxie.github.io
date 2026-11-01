@@ -36,7 +36,7 @@ ol.custom-margin { margin-left: 40px; }
 <h2>Selected publications:
 </h2>
 
-<h3> <p class="style6"><strong>Working Papers (*corresponding author):</strong></p>
+<h3> <p class="style6"><strong>Some Working Papers (*corresponding author):</strong></p>
 </h3>
 
 <li>
@@ -878,6 +878,20 @@ pp. 19:1--19:12, 2014.
 <h3> 
 <p class="style6"> <strong>Journal papers:</strong></p>
 </h3> 
+
+<li> <strong>Hong Xie</strong>, Tao Tan, Defu Lian, Pu Li. &nbsp; </li>
+<i> 
+``Revisiting Overestimation Bias of Q-learning: Breaking Bias Propagation Chains Does Well.&#39;&#39; 
+</i><br> 
+accepted to Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAML</strong>), 2026.   
+<p> </p>
+
+<li> Zixiao Dong, Tao Tan, Haoran Gu, <strong>Hong Xie</strong>, Xiongxiao Xu, Mingze Zhong, Xiaoyu Shi, Mingsheng Shang, John C.S. Lui. &nbsp; </li>
+<i> 
+``Online Learning Framework for Distributed Selection Problems: Modeling, Algorithms and Applications.&#39;&#39; 
+</i><br> 
+accepted to Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAML</strong>), 2026.   
+<p> </p>
 
 <li>Pu Li, Xiaoyu Shi, <strong>Hong Xie</strong>, Chongjun Xia, Mingsheng Shang. &nbsp; </li>
 <i> 
